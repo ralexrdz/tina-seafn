@@ -1,0 +1,75 @@
+# This file is for render site varibles and plugins
+# don't remove this file.
+# The presence of this file is for compatibility with Blogdown and Forestry.
+#
+# The actual configuration files are stored in the `config/_default/` folder.
+baseurl = ""
+
+
+
+[taxonomies]
+  category = 'categories'
+  ethnicgroup = 'ethnicgroups'
+  tag = 'tags'
+
+
+######################### site variables ##############################
+# customize your color and font from here.
+[params.variables]
+color_primary = "#009214"
+body_color = "#33194d"
+text_color = "#EAF0CE"
+text_dark = "#c1f2c9"
+text_dark = "#c1f2c9"
+text_light = "#EAF0CE"
+border_color = "#C20E05"
+black = "#F2F2F2"
+white = "#160A1F"
+light = "#f2f2f2"
+
+# font variables
+# base font size for full website, 
+font_size = "15px" # default is 16px
+
+# Font Scale Sizes
+# "minorSecond": 1.067,
+# "majorSecond": 1.125,
+# "minorThird": 1.2,
+# "majorThird": 1.25,
+# "perfectFourth": 1.333,
+# "augmentedFourth": 1.414,
+# "perfectFifth": 1.5,
+# "goldenRatio": 1.618
+font_scale = "1.3" # default is "majorThird": 1.25
+
+# Give your font name from google font. add font weight using ":wght@" and separate by ";"
+# example: "Work Sans:wght@400;500;600"
+font_primary = "Montserrat:wght@700"
+font_primary_type = "sans-serif"                  # [serif/sans-serif]
+font_secondary = "Merriweather Sans:wght@400;700"
+font_secondary_type = "sans-serif"                # [serif/sans-serif]
+font_icon = "Font Awesome 6 Free"
+
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/brands.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/solid.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/webfont/webfont-loader-2.js"
+# [[params.plugins.js]]
+# link = "plugins/glightbox.js"
+[[params.plugins.js]]
+link = "plugins/cookie.js"
+# [[params.plugins.js]]
+# link = "plugins/lazy-loader.js"
+# [[params.plugins.js]]
+# link = "https://cpwebassets.codepen.io/assets/embed/ei.js"
+# attributes = "async"

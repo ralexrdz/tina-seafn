@@ -1,0 +1,10 @@
+fragment PostParts on Post {
+  title
+  author
+  date
+  draft
+  categories
+  tags
+  ethnicgroups
+  body
+}
