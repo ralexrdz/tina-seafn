@@ -28,11 +28,12 @@ img {
 a,
 a:hover,
 a:focus {
+  color: pink;
   text-decoration: none;
 }
 
 a:hover {
-  color: $color-primary;
+  color: rgb(242, 19, 234);
 }
 
 a,
@@ -137,7 +138,7 @@ select {
   .next {
     a {
       padding: 12px 10px;
-
+      color: $black;
       &:hover {
         background-color: #f4f4f4;
         color: $text-dark;
@@ -308,7 +309,7 @@ select {
 
 .badge-primary {
   background-color: $color-primary !important;
-  color: $white !important;
+  color: $black !important;
 }
 
 .font-primary {
@@ -351,7 +352,7 @@ select {
   }
 
   a {
-    color: $color-primary;
+    color: pink;
     text-decoration: underline;
   }
   ol,

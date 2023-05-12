@@ -8,23 +8,22 @@ baseurl = ""
 
 
 [taxonomies]
-  category = 'categories'
-  ethnicgroup = 'ethnicgroups'
-  tag = 'tags'
+  issue_area = 'issue_areas'
+  ethnic_group = 'ethnic_groups'
+  media_types = 'media_types'
 
 
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
 color_primary = "#009214"
-body_color = "#33194d"
+body_color = "#51376a"
 text_color = "#EAF0CE"
 text_dark = "#c1f2c9"
-text_dark = "#c1f2c9"
 text_light = "#EAF0CE"
-border_color = "#C20E05"
+border_color = "#917350"
 black = "#F2F2F2"
-white = "#160A1F"
+white = "#3d2059"
 light = "#f2f2f2"
 
 # font variables

@@ -1,0 +1,19 @@
+<!-- ethnic_groups -->
+{{ if isset site.Taxonomies "ethnic_groups" }}
+{{ if not (eq (len site.Taxonomies.ethnic_groups) 0) }}
+<div class="widget tags-widget">
+  <div class="widget-title">
+    <h3 class="h5 title-border">{{ site.Params.ethnic_groups_title}}</h3>
+  </div>
+  <ul class="list-group list-unstyled">
+    {{ range $name, $items := site.Taxonomies.ethnic_groups }}
+    <li>
+      <a style="color: rgb(146, 243, 146)" href="{{ `ethnic_groups/` | relLangURL }}{{ $name | urlize | lower }}/" class="d-flex">
+        {{ $name | humanize }} <small class="ms-auto">{{ len $items }} posts</small>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
+{{ end }}

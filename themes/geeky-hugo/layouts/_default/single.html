@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "issue_areas") (eq .Section "media_types") }}
 
 <!--=================== section start ===================-->
 <section class="section-sm">
@@ -14,7 +14,7 @@
         <div class="position-relative">
           {{ partial "image.html" (dict "Src" $imagePath "Alt" .Title "Class" "img-fluid mb-5 w-100 rounded-4" ) }}
           <ul class="list-inline card-badge">
-            {{ range .Params.categories }}
+            {{ range .Params.issue_areas }}
             <li class="list-inline-item">
               <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
             </li>
@@ -22,7 +22,7 @@
           </ul>
         </div>
         {{ else }}
-        {{ range .Params.categories }}
+        {{ range .Params.issue_areas }}
         <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary mb-4 d-inline-block">{{. | title}}</a>
         {{ end }}
         {{ end }}

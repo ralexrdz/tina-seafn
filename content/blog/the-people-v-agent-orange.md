@@ -5,8 +5,8 @@ draft: false
 # description
 description: "This is meta description"
 author: "Alan Adelson & Kate Taverna"
-categories: ["health", "war"]
-tags: ["video"]
+issue_areas: ["health", "war"]
+media_types: ["video"]
 ---
 
 The People vs. Agent Orange closely follows two activists as they take on the chemical industry, and demand accountability for the pernicious legacy caused by the use of this poisonous herbicide.	

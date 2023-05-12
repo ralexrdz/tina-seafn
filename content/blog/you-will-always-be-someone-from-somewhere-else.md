@@ -4,12 +4,12 @@ date: 2023-05-09T15:04:07.000Z
 draft: false
 description: This is meta description
 author: Dao Strom
-categories:
+issue_areas:
   - art
-tags:
+media_types:
   - book
   - art
-ethnicgroups:
+ethnic_groups:
   - vietnamese
 ---
 

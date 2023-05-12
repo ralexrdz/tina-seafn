@@ -4,13 +4,13 @@ date: 2023-05-09T15:04:05.000Z
 draft: false
 description: This is meta description
 author: Abbigal N. Rosewood
-categories:
+issue_areas:
   - war
   - immigration
   - youth
-tags:
+media_types:
   - video
-ethnicgroups:
+ethnic_groups:
   - vietnamese
 ---
 

@@ -5,9 +5,9 @@ draft: false
 # description
 description: "Vietnam War Memorial"
 author: "Freida Lee Mock"
-categories: ["war"]
+issue_areas: ["war"]
 tag: ["video"]
-ethnicgroups: ["vietnamese"]
+ethnic_groups: ["vietnamese"]
 ---
 
 

@@ -6,13 +6,13 @@ date: 2023-05-02T05:35:25.000Z
 draft: false
 description: This is meta description
 author: Isabelle Thuy Pelaud
-categories:
+issue_areas:
   - immigration
   - war
   - youth
-tags:
+media_types:
   - book
-ethnicgroups:
+ethnic_groups:
   - vietnamese
 ---
 

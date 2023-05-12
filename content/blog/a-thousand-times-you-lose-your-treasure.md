@@ -4,11 +4,11 @@ date: 2023-05-09T15:04:02.000Z
 draft: false
 description: This is meta description
 author: Hoa Nguyen
-categories:
+issue_areas:
   - war
-tags:
+media_types:
   - book
-ethnicgroups:
+ethnic_groups:
   - vietnamese
 ---
 

@@ -5,7 +5,7 @@
   <div class="mb-4 position-relative">
     {{ partial "image.html" (dict "Src" $imagePath "Alt" .Title "Class" "img-fluid w-100 rounded-4" ) }}
     <ul class="list-inline card-badge">
-      {{ range .Params.categories }}
+      {{ range .Params.issue_areas }}
       <li class="list-inline-item">
         <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-primary py-1">{{. | title}}</a>
       </li>
@@ -14,8 +14,8 @@
   </div>
   {{ else }}
   <div class="mb-4">
-    {{ range .Params.categories }}
-    <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-primary d-inline-block">{{. | title}}</a>
+    {{ range .Params.issue_areas }}
+    <a href="{{`issue_areas/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-primary d-inline-block">{{. | title}}</a>
     {{ end }}
   </div>
   {{ end }}
@@ -24,14 +24,16 @@
       <a class="title-linked" href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
     </h3>
     <div>
-        {{ range .Params.Tags }}
-        <a href="{{`tags/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-secondary mb-3 d-inline-block"># {{. | title}}</a>
+        {{ range .Params.media_types }}
+        <a class="pink" href="{{`media_types/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-secondary mb-3 d-inline-block">#{{. | title | lower}}</a>
         {{ end }}
     </div>
     <ul class="list-inline card-meta d-flex align-items-center mb-3">
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-user me-2"></i>
-        <a href="{{`about` | relLangURL}}/">{{site.Params.author}}</a>
+        {{ range .Params.ethnic_groups }}
+        {{ . | title }}
+        {{ end }}
       </li>
       <li class="list-inline-item d-flex align-items-center">
         <i class="fas fa-calendar me-2"></i>

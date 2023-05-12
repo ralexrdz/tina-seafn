@@ -5,9 +5,9 @@ draft: false
 # description
 description: "A true history of Vietnam's post-reunification era"
 author: "Huy Duc"
-categories: ["war"]	
-tags: ["article"]		
-ethnicgroups: ["vietnamese"]	
+issue_areas: ["war"]	
+media_types: ["article"]		
+ethnic_groups: ["vietnamese"]	
 ---
 
 A true history of Vietnam's post-reunification era	

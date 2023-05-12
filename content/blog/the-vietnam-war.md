@@ -5,9 +5,9 @@ draft: false
 # description
 description: "Acclaimed 10 episode documentary about Vietnam War"
 author: "Ken Burns & Lynn Novick"
-categories: ["war"]
-tags: ["video"]
-ethnicgroups: ["vietnamese"]	
+issue_areas: ["war"]
+media_types: ["video"]
+ethnic_groups: ["vietnamese"]	
 ---
 
 

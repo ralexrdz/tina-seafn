@@ -13,7 +13,7 @@
         {{ with .title_small }}<h2 class="h2 fw-normal mb-4">{{ . | markdownify}}</h2>{{ end }}
         <p class="mb-4 fs-6 text-light-600">{{.content | markdownify}}</p>
         {{ if .button_label }}
-        <a href="{{ .button_link | absURL }}" class="btn btn-primary">{{ .button_label }}</a>
+        <a href="{{ .button_link | absURL }}" class="mb-4 btn btn-primary">{{ .button_label }}</a>
         {{ end }}
       </div>
       {{ with .image }}
@@ -69,14 +69,14 @@
         </div>
 
         <!-- advertisement -->
-        {{ with site.Params.advertisement }}
+        <!-- {{ with site.Params.advertisement }}
         <div class="mb-5">
           <a href="{{.link | absLangURL}}">
             {{ $image:= resources.Get .image }}
             <img class="img-fluid w-100" width="858" height="123" src="{{ $image.RelPermalink }}" alt="image">
           </a>
         </div>
-        {{ end }}
+        {{ end }} -->
         <!-- /advertisement -->
 
         {{with site.Params.recent_post_title}}

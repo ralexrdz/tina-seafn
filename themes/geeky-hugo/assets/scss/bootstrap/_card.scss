@@ -47,7 +47,12 @@
   // as much space as possible, ensuring footers are aligned to the bottom.
   flex: 1 1 auto;
   padding: $card-spacer-y $card-spacer-x;
-  color: $card-color;
+  color: $card-color; 
+  
+}
+
+a.pink {
+  color: blueviolet;
 }
 
 .card-title {

@@ -35,8 +35,8 @@ previous_button = "Previous"
 next_button = "Next"
 related_posts = "Related Posts"
 showing_posts = "Showing Post From"
-no_categories_found = "No Categories Found"
-no_tags_found = "No Tags Found"
+no_issueAreas_found = "No Categories Found"
+no_mediaTypes_found = "No Tags Found"
 
 mainSections = ["blog"]
 # about widget content

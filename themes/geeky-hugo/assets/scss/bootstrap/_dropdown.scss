@@ -22,7 +22,7 @@
   padding: $dropdown-padding-y $dropdown-padding-x;
   margin: 0; // Override default margin of ul
   @include font-size($dropdown-font-size);
-  color: $dropdown-color;
+  color: $black;
   text-align: left; // Ensures proper alignment if parent has it changed (e.g., modal footer)
   list-style: none;
   background-color: $dropdown-bg;
@@ -134,7 +134,7 @@
   padding: $dropdown-item-padding-y $dropdown-item-padding-x;
   clear: both;
   font-weight: $font-weight-normal;
-  color: $dropdown-link-color;
+  color: white;
   text-align: inherit; // For `<button>`s
   text-decoration: if($link-decoration == none, null, none);
   white-space: nowrap; // prevent links from randomly breaking onto new lines
@@ -155,7 +155,7 @@
 
   &:hover,
   &:focus {
-    color: $dropdown-link-hover-color;
+    color: $black;
     text-decoration: if($link-hover-decoration == underline, none, null);
     @include gradient-bg($dropdown-link-hover-bg);
   }
@@ -195,7 +195,7 @@
 .dropdown-item-text {
   display: block;
   padding: $dropdown-item-padding-y $dropdown-item-padding-x;
-  color: $dropdown-link-color;
+  color: white;
 }
 
 // Dark dropdowns
@@ -206,11 +206,11 @@
   @include box-shadow($dropdown-dark-box-shadow);
 
   .dropdown-item {
-    color: $dropdown-dark-link-color;
+    color: white;
 
     &:hover,
     &:focus {
-      color: $dropdown-dark-link-hover-color;
+      color: $color-primary;
       @include gradient-bg($dropdown-dark-link-hover-bg);
     }
 

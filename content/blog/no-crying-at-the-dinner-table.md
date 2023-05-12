@@ -4,13 +4,13 @@ date: 2023-05-09T15:04:06.000Z
 draft: false
 description: This is meta description
 author: Carol Nguyen
-categories:
+issue_areas:
   - immigration
   - war
   - youth
-tags:
+media_types:
   - video
-ethnicgroups:
+ethnic_groups:
   - vietnamese
 ---
 

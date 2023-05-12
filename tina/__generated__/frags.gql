@@ -5,6 +5,6 @@ fragment PostParts on Post {
   draft
   categories
   tags
-  ethnicgroups
+  ethnic_groups
   body
 }

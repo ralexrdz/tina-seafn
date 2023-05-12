@@ -1,15 +1,15 @@
 <!-- categories -->
-{{ if isset site.Taxonomies "categories" }}
-{{ if not (eq (len site.Taxonomies.categories) 0) }}
+{{ if isset site.Taxonomies "issue_areas" }}
+{{ if not (eq (len site.Taxonomies.issue_areas) 0) }}
 <div class="widget category-widget">
   <div class="widget-title">
     <h3 class="h5 title-border">{{site.Params.issue_areas_title}}</h3>
   </div>
   
   <ul class="list-group list-unstyled">
-    {{ range $name, $items := site.Taxonomies.categories }}
+    {{ range $name, $items := site.Taxonomies.issue_areas }}
     <li>
-      <a href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}/" class="d-flex">
+      <a href="{{ `issue_areas/` | relLangURL }}{{ $name | urlize | lower }}/" class="d-flex">
         {{ $name | humanize }} <small class="ms-auto">{{ len $items }}</small>
       </a>
     </li>

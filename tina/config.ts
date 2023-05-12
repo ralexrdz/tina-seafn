@@ -128,7 +128,7 @@ export default defineStaticConfig({
           },
           {
             type: "string",
-            name: "ethnicgroups",
+            name: "ethnic_groups",
             label: "Ethnic Groups",
             list: true,
             options: [

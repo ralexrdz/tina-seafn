@@ -170,7 +170,7 @@ export type Post = Node & Document & {
   draft?: Maybe<Scalars['Boolean']>;
   categories?: Maybe<Array<Maybe<Scalars['String']>>>;
   tags?: Maybe<Array<Maybe<Scalars['String']>>>;
-  ethnicgroups?: Maybe<Array<Maybe<Scalars['String']>>>;
+  ethnic_groups?: Maybe<Array<Maybe<Scalars['String']>>>;
   body?: Maybe<Scalars['JSON']>;
   id: Scalars['ID'];
   _sys: SystemInfo;
@@ -210,7 +210,7 @@ export type PostFilter = {
   draft?: InputMaybe<BooleanFilter>;
   categories?: InputMaybe<StringFilter>;
   tags?: InputMaybe<StringFilter>;
-  ethnicgroups?: InputMaybe<StringFilter>;
+  ethnic_groups?: InputMaybe<StringFilter>;
   body?: InputMaybe<RichTextFilter>;
 };
 
@@ -292,18 +292,18 @@ export type PostMutation = {
   draft?: InputMaybe<Scalars['Boolean']>;
   categories?: InputMaybe<Array<InputMaybe<Scalars['String']>>>;
   tags?: InputMaybe<Array<InputMaybe<Scalars['String']>>>;
-  ethnicgroups?: InputMaybe<Array<InputMaybe<Scalars['String']>>>;
+  ethnic_groups?: InputMaybe<Array<InputMaybe<Scalars['String']>>>;
   body?: InputMaybe<Scalars['JSON']>;
 };
 
-export type PostPartsFragment = { __typename?: 'Post', title: string, author?: string | null, date?: string | null, draft?: boolean | null, categories?: Array<string | null> | null, tags?: Array<string | null> | null, ethnicgroups?: Array<string | null> | null, body?: any | null };
+export type PostPartsFragment = { __typename?: 'Post', title: string, author?: string | null, date?: string | null, draft?: boolean | null, categories?: Array<string | null> | null, tags?: Array<string | null> | null, ethnic_groups?: Array<string | null> | null, body?: any | null };
 
 export type PostQueryVariables = Exact<{
   relativePath: Scalars['String'];
 }>;
 
 
-export type PostQuery = { __typename?: 'Query', post: { __typename?: 'Post', id: string, title: string, author?: string | null, date?: string | null, draft?: boolean | null, categories?: Array<string | null> | null, tags?: Array<string | null> | null, ethnicgroups?: Array<string | null> | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
+export type PostQuery = { __typename?: 'Query', post: { __typename?: 'Post', id: string, title: string, author?: string | null, date?: string | null, draft?: boolean | null, categories?: Array<string | null> | null, tags?: Array<string | null> | null, ethnic_groups?: Array<string | null> | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
 
 export type PostConnectionQueryVariables = Exact<{
   before?: InputMaybe<Scalars['String']>;
@@ -315,7 +315,7 @@ export type PostConnectionQueryVariables = Exact<{
 }>;
 
 
-export type PostConnectionQuery = { __typename?: 'Query', postConnection: { __typename?: 'PostConnection', totalCount: number, pageInfo: { __typename?: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string, endCursor: string }, edges?: Array<{ __typename?: 'PostConnectionEdges', cursor: string, node?: { __typename?: 'Post', id: string, title: string, author?: string | null, date?: string | null, draft?: boolean | null, categories?: Array<string | null> | null, tags?: Array<string | null> | null, ethnicgroups?: Array<string | null> | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
+export type PostConnectionQuery = { __typename?: 'Query', postConnection: { __typename?: 'PostConnection', totalCount: number, pageInfo: { __typename?: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string, endCursor: string }, edges?: Array<{ __typename?: 'PostConnectionEdges', cursor: string, node?: { __typename?: 'Post', id: string, title: string, author?: string | null, date?: string | null, draft?: boolean | null, categories?: Array<string | null> | null, tags?: Array<string | null> | null, ethnic_groups?: Array<string | null> | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
 
 export const PostPartsFragmentDoc = gql`
     fragment PostParts on Post {
@@ -325,7 +325,7 @@ export const PostPartsFragmentDoc = gql`
   draft
   categories
   tags
-  ethnicgroups
+  ethnic_groups
   body
 }
     `;

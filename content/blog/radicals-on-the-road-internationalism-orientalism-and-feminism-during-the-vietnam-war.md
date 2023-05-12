@@ -6,13 +6,13 @@ date: 2023-05-02T05:35:23.000Z
 draft: false
 description: This is meta description
 author: Judy Wu
-categories:
+issue_areas:
   - war
   - immigration
   - gender
-tags:
+media_types:
   - article
-ethnicgroups:
+ethnic_groups:
   - vietnamese
   - cambodian
 ---

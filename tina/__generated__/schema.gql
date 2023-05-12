@@ -93,7 +93,7 @@ type Post implements Node & Document {
   draft: Boolean
   categories: [String]
   tags: [String]
-  ethnicgroups: [String]
+  ethnic_groups: [String]
   body: JSON
   id: ID!
   _sys: SystemInfo!
@@ -133,7 +133,7 @@ input PostFilter {
   draft: BooleanFilter
   categories: StringFilter
   tags: StringFilter
-  ethnicgroups: StringFilter
+  ethnic_groups: StringFilter
   body: RichTextFilter
 }
 
@@ -173,7 +173,7 @@ input PostMutation {
   draft: Boolean
   categories: [String]
   tags: [String]
-  ethnicgroups: [String]
+  ethnic_groups: [String]
   body: JSON
 }
 

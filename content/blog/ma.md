@@ -2,14 +2,15 @@
 title: Ma
 date: 2023-05-09T15:04:03.000Z
 draft: false
+type: "featured"
 description: This is meta description
-categories:
+issue_areas:
   - immigration
   - war
   - youth
-tags:
+media_types:
   - book
-ethnicgroups:
+ethnic_groups:
   - vietnamese
 ---
 

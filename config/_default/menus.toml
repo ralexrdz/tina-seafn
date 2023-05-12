@@ -23,21 +23,21 @@ weight = 3
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
+  parent = "Find by"
   name = "Media Types"
-  url = "tags/"
+  url = "media_types/"
   weight = 1
 
   [[main]]
-  parent = "Pages"
+  parent = "Find by"
   name = "Issue Areas"
-  url = "categories/"
+  url = "issue_areas/"
   weight = 2
   
   [[main]]
-  parent = "Pages"
+  parent = "Find by"
   name = "Ethnic Groups"
-  url = "ethnicgroups/"
+  url = "ethnic_groups/"
   weight = 3
 
 # footer menu

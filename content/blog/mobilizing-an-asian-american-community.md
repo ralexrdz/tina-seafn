@@ -4,12 +4,12 @@ date: 2023-05-02T05:35:25.000Z
 draft: false
 description: This is meta description
 author: Linda Trinh VVo
-categories:
+issue_areas:
   - immigration
   - youth
-tags:
+media_types:
   - book
-ethnicgroups:
+ethnic_groups:
   - vietnamese
 ---
 

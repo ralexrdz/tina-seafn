@@ -4,13 +4,13 @@ date: 2023-05-09T15:04:08.000Z
 draft: false
 description: This is meta description
 author: Nguyễn Phan Quế Mai
-categories:
+issue_areas:
   - immigration
   - war
   - youth
-tags:
+media_types:
   - book
-ethnicgroups:
+ethnic_groups:
   - vietnamese
 ---
 

@@ -53,7 +53,7 @@
         .nav-link {
           background: $color-primary;
           border-radius: 50px;
-          color: $white;
+          color: $black;
         }
       }
     }
@@ -76,7 +76,7 @@
       &:hover {
         background: $color-primary;
         border-radius: 50px;
-        color: $white;
+        color: $black;
       }
     }
   }
@@ -137,12 +137,12 @@
         text-transform: capitalize;
         transition: 0.3s;
         font-family: $font-secondary;
-
+        color: white;
         &.active,
         &:active,
         &:hover {
-          color: $color-primary;
-          background-color: rgba($color-primary, 0.15);
+          color: white;
+          background-color: rgba($body-color, 0.15);
         }
       }
     }
@@ -154,7 +154,7 @@
   li a {
     background: $color-primary;
     border-radius: 50%;
-    color: $white;
+    color: $black;
     font-size: 14px;
     height: 40px;
     width: 40px;
@@ -203,6 +203,7 @@
 
   input {
     font-size: 30px;
+    background-color: $white;
     color: $black;
 
     &::placeholder {
@@ -253,7 +254,7 @@
 
 .toggle-search {
   background-color: $color-primary;
-  color: $white;
+  color: $black;
   border: 0;
   border-radius: 50%;
   height: 38px;

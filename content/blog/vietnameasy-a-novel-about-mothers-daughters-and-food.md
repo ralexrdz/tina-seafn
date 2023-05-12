@@ -4,12 +4,12 @@ date: 2023-05-02T05:35:24.000Z
 draft: false
 description: This is meta description
 author: Trami Nguyen Cron
-categories:
+issue_areas:
   - immigration
-tags:
+media_types:
   - article
   - video
-ethnicgroups:
+ethnic_groups:
   - vietnamese
 ---
 

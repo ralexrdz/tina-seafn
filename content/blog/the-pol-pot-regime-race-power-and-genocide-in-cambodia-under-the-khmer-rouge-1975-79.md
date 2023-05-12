@@ -6,12 +6,12 @@ date: 2023-05-09T15:04:08.000Z
 draft: false
 description: This is meta description
 author: Ben Kiernan
-categories:
+issue_areas:
   - war
   - immigration
-tags:
+media_types:
   - book
-ethnicgroups:
+ethnic_groups:
   - cambodian
 ---
 

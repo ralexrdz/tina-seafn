@@ -5,7 +5,7 @@
   <div class="mb-4 position-relative">
     {{ partial "image.html" (dict "Src" $imagePath "Alt" .Title "Class" "img-fluid w-100 rounded-4" ) }}
     <ul class="list-inline card-badge">
-      {{ range .Params.categories }}
+      {{ range .Params.issue_areas }}
       <li class="list-inline-item">
         <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-primary py-1">{{. | title}}</a>
       </li>
@@ -14,7 +14,7 @@
   </div>
   {{ else }}
   <div class="mb-4">
-    {{ range .Params.categories }}
+    {{ range .Params.issue_areas }}
     <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-primary d-inline-block">{{. | title}}</a>
     {{ end }}
   </div>

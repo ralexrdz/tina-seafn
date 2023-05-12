@@ -1,10 +1,10 @@
 {{ define "main" }}
 
-<section class="py-5 bg-light">
+<section class="py-5 bg-dark">
   <div class="container">
     <div class="row">
       <div class="col-md-8 mx-auto text-center">
-        <h1 class="h2 mb-0">{{ .Title }}</h1>
+        <h1 class="h2 mb-0">{{ replace .Title "_" " " }}</h1>
       </div>
     </div>
   </div>
@@ -13,44 +13,44 @@
 <section class="section">
   <div class="container">
     <div class="row g-3 justify-content-center text-center">
-        {{ if eq .Permalink (`ethnicgroups/` | absURL)}}
-        {{ if gt (len site.Taxonomies.ethnicgroups) 0}}
-        {{ range site.Taxonomies.ethnicgroups }}
+        {{ if eq .Permalink (`ethnic_groups/` | absURL)}}
+        {{ if gt (len site.Taxonomies.ethnic_groups) 0}}
+        {{ range site.Taxonomies.ethnic_groups }}
         <div class="col-sm-3">
-          <a class="text-dark fw-bold px-4 py-3 rounded bg-light d-block text-capitalize" href="{{ .Page.RelPermalink }}"><i class="fas fa-tags me-1"></i># {{ .Page.Title }} ({{ .Count }})</a>
+          <a class="text-dark fw-bold px-4 py-3 rounded bg-dark d-block text-capitalize" href="{{ .Page.RelPermalink }}"><i class="fas fa-tags me-1"></i># {{ .Page.Title }} ({{ .Count }})</a>
         </div>
         {{ end }}
         {{ else }}
         <div class="col-12 text-center">
-          <h2 class="h4">{{ site.Params.no_tags_found }}</h2>
+          <h2 class="h4">{{ site.Params.no_ethnic_groups_found }}</h2>
         </div>
         {{ end }}
         {{ end }}
 
-        {{ if eq .Permalink (`tags/` | absURL)}}
-        {{ if gt (len site.Taxonomies.tags) 0}}
-        {{ range site.Taxonomies.tags }}
+        {{ if eq .Permalink (`media_types/` | absURL)}}
+        {{ if gt (len site.Taxonomies.media_types) 0}}
+        {{ range site.Taxonomies.media_types }}
         <div class="col-sm-3">
-          <a class="text-dark fw-bold px-4 py-3 rounded bg-light d-block text-capitalize" href="{{ .Page.RelPermalink }}"><i class="fas fa-tags me-1"></i># {{ .Page.Title }} ({{ .Count }})</a>
+          <a class="text-dark fw-bold px-4 py-3 rounded bg-dark d-block text-capitalize" href="{{ .Page.RelPermalink }}"><i class="fas fa-tags me-1"></i># {{ .Page.Title }} ({{ .Count }})</a>
         </div>
         {{ end }}
         {{ else }}
         <div class="col-12 text-center">
-          <h2 class="h4">{{ site.Params.no_tags_found }}</h2>
+          <h2 class="h4">{{ site.Params.no_mediaTypes_found }}</h2>
         </div>
         {{ end }}
         {{ end }}
 
-        {{ if eq .Permalink (`categories/` | absURL)}}
-        {{ if gt (len site.Taxonomies.categories) 0}}
-        {{ range site.Taxonomies.categories }}
+        {{ if eq .Permalink (`issue_areas/` | absURL)}}
+        {{ if gt (len site.Taxonomies.issue_areas) 0}}
+        {{ range site.Taxonomies.issue_areas }}
         <div class="col-sm-3">
-          <a class="text-dark fw-bold px-4 py-3 rounded bg-light d-block text-capitalize" href="{{ .Page.RelPermalink }}"><i class="fas fa-folder me-1"></i> {{ .Page.Title }} ({{ .Count }})</a>
+          <a class="text-dark fw-bold px-4 py-3 rounded bg-dark d-block text-capitalize" href="{{ .Page.RelPermalink }}"><i class="fas fa-folder me-1"></i> {{ .Page.Title }} ({{ .Count }})</a>
         </div>
         {{ end }}
         {{ else }}
         <div class="col-12 text-center">
-          <h2 class="h4">{{ site.Params.no_categories_found }}</h2>
+          <h2 class="h4">{{ site.Params.no_issueAreas_found }}</h2>
         </div>
         {{ end }}
         {{ end }}

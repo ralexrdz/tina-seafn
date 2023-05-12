@@ -2,14 +2,15 @@
 title: Perfume Dreams Reflections on the Vietnamese Diaspora
 date: 2023-05-09T15:04:05.000Z
 draft: false
+type: "featured"
 description: This is meta description
 author: Andrew Lam
-categories:
+issue_areas:
   - immigration
-tags:
+media_types:
   - article
   - podcast
-ethnicgroups:
+ethnic_groups:
   - vietnamese
 ---
 

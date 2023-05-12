@@ -5,9 +5,9 @@ draft: false
 # description
 description: "This is meta description"
 author: "Long T. Bui"
-categories: ["war"]	
-tags: ["book"]
-ethnicgroups: ["vietnamese"]	
+issue_areas: ["war"]	
+media_types: ["book"]
+ethnic_groups: ["vietnamese"]	
 ---
 
 
