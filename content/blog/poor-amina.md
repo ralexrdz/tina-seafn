@@ -6,8 +6,8 @@ description: "The poems presented here exhaustively meditate on such chaos, both
 issue_areas: ["war", "art", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["hmong"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=13R-njkeCiFj3n-qCohfHc43MtUWqtulp"
+type: featured
 author: "Khaty Xiong"
 ---
 

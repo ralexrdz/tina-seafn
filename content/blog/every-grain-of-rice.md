@@ -6,8 +6,8 @@ description: "They say it only takes three generations for a culture to assimila
 issue_areas: ["immigration"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1_H3HazenjhafgT2eYZwnZLHd2rrlNj7l"
+type: featured
 author: "Carol Nguyen"
 ---
 

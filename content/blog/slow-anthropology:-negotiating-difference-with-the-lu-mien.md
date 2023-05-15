@@ -6,8 +6,8 @@ description: "This study challenges the prevailing academic theory that groups l
 issue_areas: ["war"]
 media_types: ["literature"]
 ethnic_groups: ["mien"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=14ukp9itimmqn_MJ8S8CXDC7VD2mT8w8w"
+type: featured
 author: "Hjorleifur Jonsson"
 ---
 

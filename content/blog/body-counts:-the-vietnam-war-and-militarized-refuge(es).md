@@ -6,8 +6,8 @@ description: "Focusing on the politics of war memory and commemoration, this lit
 issue_areas: ["war", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1mt2MHXBo5QTCXR7lQvvtIUgWVbBTB3QJ"
+type: featured
 author: "Yen Le Espiritu"
 ---
 

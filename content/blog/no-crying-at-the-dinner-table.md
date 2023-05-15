@@ -6,8 +6,8 @@ description: "Filmmaker Carol Nguyen interviews her own family to craft an emoti
 issue_areas: ["war", "immigration", "youth"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1nttrlN7bWkWpUsyb5yQF3Z_DsEFBuUX2"
+type: featured
 author: "Carol Nguyen"
 ---
 

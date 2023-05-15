@@ -6,8 +6,8 @@ description: "On Earth We're Briefly Gorgeous is a letter from a son to a mother
 issue_areas: ["immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1twf_Td2DxxIkUms5-BQY40qCNHc2ynil"
+type: featured
 author: "Ocean Vuong"
 ---
 

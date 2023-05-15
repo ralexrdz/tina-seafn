@@ -6,8 +6,8 @@ description: "In this staggering work of documentary, poetry, and collage, Mai D
 issue_areas: ["war", "art"]
 media_types: ["literature"]
 ethnic_groups: ["hmong"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1Q0O4khPV47dWI0T9SpzYTmyoNnlV6-Bv"
+type: featured
 author: "Mai Der Vang"
 ---
 

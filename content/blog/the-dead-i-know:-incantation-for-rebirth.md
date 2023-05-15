@@ -6,8 +6,8 @@ description: "Poems reflect on and portray the Hmong experience both in Asia and
 issue_areas: ["war", "immigration", "art", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["hmong"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1nKVg5Gm2erR0ytnGLp9jMkK1g2_FT6Ox"
+type: featured
 author: "Burlee Vang"
 ---
 

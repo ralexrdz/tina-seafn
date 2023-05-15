@@ -6,8 +6,8 @@ description: "MA is a comic literature based on the true story of how Huynh's fa
 issue_areas: ["war", "immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1GO6myZ2KCV695Yk8280AmMmf__4Exnde"
+type: featured
 author: "Matt Huynh"
 ---
 

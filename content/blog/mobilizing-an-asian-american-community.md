@@ -6,8 +6,8 @@ description: "Using historical materials, ethnographic fieldwork, and interviews
 issue_areas: ["immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1-pMzmMYndVnOvYH9NqaFFpYpR9H8GFj4"
+type: featured
 author: "Linda Trinh Vo"
 ---
 

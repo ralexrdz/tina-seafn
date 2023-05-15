@@ -6,8 +6,8 @@ description: "A memoir in text + image + song. In this unique work of literary m
 issue_areas: [""]
 media_types: ["literature", "music", "visual art"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=11-Q1ZjEDK3Nbj9b-fIMrqnh6V36F39_g"
+type: featured
 author: "Dao Strom"
 ---
 

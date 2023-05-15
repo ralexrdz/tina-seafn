@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://seafn.ralex.dev"
 title = "SEAFN | Cultura library"
 theme = "geeky-hugo"
 languageName = "En"

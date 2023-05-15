@@ -6,8 +6,8 @@ description: "Enveloping, multigenerational tale of the Trần family, set again
 issue_areas: ["war", "immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1CyX6Q0p2BF45D7Do2lgxVSP1LV7rr9J7"
+type: featured
 author: "Nguyễn Phan Quế Mai"
 ---
 

@@ -6,8 +6,8 @@ description: "A bilingual English-Vietnamese poetry + visual art literature of f
 issue_areas: [""]
 media_types: ["literature", "visual art"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=17O7nwuUFVigluVDgXaeSzsz_7rkIWs5H"
+type: featured
 author: "Dao Strom"
 ---
 

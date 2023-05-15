@@ -6,8 +6,8 @@ description: "Set in San Francisco from the 1980s to the present day, this debut
 issue_areas: ["immigration"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1cDQWLFjzO17SOT2kw9FC5WgYFVXZ95MJ"
+type: featured
 author: "Angie Chau"
 ---
 

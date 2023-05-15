@@ -6,8 +6,8 @@ description: "Le Ke Son and Charles R. Bailey outline the moral reasoning for a 
 issue_areas: ["health"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1fb00hmXIxkdqCU8pEUnppkF6e8FpT3tx"
+type: featured
 author: "Lê Kế Sơn & Charles R. Bailey"
 ---
 

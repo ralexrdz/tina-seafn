@@ -6,8 +6,8 @@ description: "It tells the story of Kieu, a Vietnamese-American woman, and her q
 issue_areas: ["immigration"]
 media_types: ["visual article", "video"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1B0VBcNEtIcFUHXRVW1TaKBPsZapr1Nt8"
+type: featured
 author: "Trami Nguyen Cron"
 ---
 

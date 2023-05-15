@@ -61,6 +61,7 @@
         <div id="search-results"></div>
         <script id="search-result-template" type="text/x-js-template">
           <div class="card">
+            {{ println . }}
             <div class="mb-4 position-relative">
               <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4" src="${image}" alt="${title}">
               ${ isset categories }<span class="badge badge-primary card-badge">${categories}</span>${ end }

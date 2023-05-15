@@ -7,8 +7,8 @@ description: "In Radicals on the Road: Internationalism, Orientalism, and Femini
 issue_areas: ["war", "immigration", "gender"]
 media_types: ["visual article"]
 ethnic_groups: ["vietnamese", "cambodian"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1YLGq3AJfd83L8elPNll5CdXrO2ockkdw"
+type: featured
 author: "Judy Wu"
 ---
 

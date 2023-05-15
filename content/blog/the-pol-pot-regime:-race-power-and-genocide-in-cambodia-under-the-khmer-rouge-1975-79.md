@@ -6,8 +6,8 @@ description: "Ben Kiernan draws on more than five hundred interviews with Cambod
 issue_areas: ["war", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["cambodian"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1FODz7XC_c_Vtak2NlIWq2-wqIkm0fGlj"
+type: featured
 author: "Ben Kiernan"
 ---
 

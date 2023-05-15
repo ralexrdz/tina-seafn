@@ -7,8 +7,8 @@ description: "This visual article aims to comprehend the physical suffering that
 issue_areas: ["war", "youth"]
 media_types: ["visual article"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1LialCMtvOcMXJ-HwAe5oyQ1YLyvPXq6_"
+type: featured
 author: "Francois Guillem"
 ---
 

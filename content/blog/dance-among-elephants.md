@@ -6,8 +6,8 @@ description: "Weaves the personal with the cultural, love with loss, and dancing
 issue_areas: ["immigration", "art"]
 media_types: ["literature"]
 ethnic_groups: ["lao"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1CNdEyEkFXbkTETgMsVIzXZie6i0AiRkr"
+type: featured
 author: "Krysada Panusith Phounsiri"
 ---
 

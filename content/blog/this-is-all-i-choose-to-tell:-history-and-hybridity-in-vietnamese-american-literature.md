@@ -6,8 +6,8 @@ description: "Moves beyond the common focus on the Vietnam war to develop an int
 issue_areas: ["war", "immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=19jpxx9M7d5JAHrxeSwkpIKBaF6BtXI57"
+type: featured
 author: "Isabelle Thuy Pelaud"
 ---
 

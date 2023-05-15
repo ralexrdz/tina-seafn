@@ -6,8 +6,8 @@ description: "A poetic meditation on historical, personal, and cultural pressure
 issue_areas: ["war"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1zXR9ghg7JcFRJ8wkZ4faU42j02CBZt5B"
+type: featured
 author: "Hoa Nguyen"
 ---
 

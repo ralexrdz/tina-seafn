@@ -6,8 +6,8 @@ description: "Andrew Lam explores his identity as a Viet Kieu -- a Vietnamese na
 issue_areas: ["immigration"]
 media_types: ["visual article", "podcast"]
 ethnic_groups: ["vietnamese"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=1zOY89kyW53Tcr3oXxkNR8G0zgRTN0sw1"
+type: featured
 author: "Andrew Lam"
 ---
 

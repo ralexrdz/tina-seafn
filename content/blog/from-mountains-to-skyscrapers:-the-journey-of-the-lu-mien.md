@@ -6,8 +6,8 @@ description: "Explores their ancient history and dissonant relationship with the
 issue_areas: ["war", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["mien"]
-image: ""
-type: regular
+image: "https://drive.google.com/uc?id=12yjEF7IGVLUCEaM7vtVgEh1IkZh4IP2R"
+type: featured
 author: "David Saechao"
 ---
 
