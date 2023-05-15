@@ -1,19 +1,15 @@
 ---
-title: The Boat
-date: 2023-05-09T15:04:02.000Z
+title: "The Boat"
+date: 2023-04-04
 draft: false
-description: This is meta description
-issue_areas:
-  - immigration
-  - youth
-  - war
-media_types:
-  - book
-ethnic_groups:
-  - vietnamese
-author: Matt Huynh
+description: "Interactive graphic novel based on the acclaimed short story by Nam Le of of 16-year-old Mai, sent alone by her parents on a boat after the Fall of Saigon."
+issue_areas: ["war", "immigration", "youth"]
+media_types: ["literature"]
+ethnic_groups: ["vietnamese"]
+image: ""
+type: regular
 ---
 
-A poetic meditation on historical, personal, and cultural pressures pre- and post-“Fall-of-Saigon” with verse biography on the poet's mother, Diệp Anh Nguyễn, a stunt motorcyclist in an all-women Vietnamese circus troupe.
+Interactive graphic novel based on the acclaimed short story by Nam Le of of 16-year-old Mai, sent alone by her parents on a boat after the Fall of Saigon.
 
-[https://www.wavepoetry.com/products/a-thousand-times-you-lose-your-treasure](https://www.wavepoetry.com/products/a-thousand-times-you-lose-your-treasure)
+[Find it here](https://www.matthuynh.com/theboat)

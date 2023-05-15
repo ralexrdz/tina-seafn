@@ -1,19 +1,15 @@
 ---
-title: No Crying at the Dinner Table
-date: 2023-05-09T15:04:06.000Z
+title: "No Crying at the Dinner Table"
+date: 2023-04-04
 draft: false
-description: This is meta description
-author: Carol Nguyen
-issue_areas:
-  - immigration
-  - war
-  - youth
-media_types:
-  - video
-ethnic_groups:
-  - vietnamese
+description: "Filmmaker Carol Nguyen interviews her own family to craft an emotionally complex and meticulously composed portrait of intergenerational trauma, grief, and secrets in this cathvisual artic documentary about things left unsaid."
+issue_areas: ["war", "immigration", "youth"]
+media_types: ["video"]
+ethnic_groups: ["vietnamese"]
+image: ""
+type: regular
 ---
 
-Filmmaker Carol Nguyen interviews her own family to craft an emotionally complex and meticulously composed portrait of intergenerational trauma, grief, and secrets in this cathartic documentary about things left unsaid.
+Filmmaker Carol Nguyen interviews her own family to craft an emotionally complex and meticulously composed portrait of intergenerational trauma, grief, and secrets in this cathvisual artic documentary about things left unsaid.
 
-[https://vimeo.com/482032869](https://vimeo.com/482032869)
+[Find it here](https://vimeo.com/482032869)

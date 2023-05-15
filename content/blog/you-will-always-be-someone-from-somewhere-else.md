@@ -1,18 +1,15 @@
 ---
-title: You Will Always Be Someone From Somewhere Else
-date: 2023-05-09T15:04:07.000Z
+title: "You Will Always Be Someone From Somewhere Else"
+date: 2023-04-04
 draft: false
-description: This is meta description
-author: Dao Strom
-issue_areas:
-  - art
-media_types:
-  - book
-  - art
-ethnic_groups:
-  - vietnamese
+description: "A bilingual English-Vietnamese poetry + visual art literature of fragments"
+issue_areas: [""]
+media_types: ["literature", "visual art"]
+ethnic_groups: ["vietnamese"]
+image: ""
+type: regular
 ---
 
-A bilingual English-Vietnamese poetry + art book of fragments
+A bilingual English-Vietnamese poetry + visual art literature of fragments
 
-[https://www.daostrom.com/you-will-always-be-someone-from-somewhere-else](https://www.daostrom.com/you-will-always-be-someone-from-somewhere-else)
+[Find it here](https://www.daostrom.com/you-will-always-be-someone-from-somewhere-else)

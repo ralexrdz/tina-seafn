@@ -1,17 +1,15 @@
 ---
 title: "The Vietnam War"
-date: 2023-05-02T05:35:23Z
+date: 2023-04-04
 draft: false
-# description
 description: "Acclaimed 10 episode documentary about Vietnam War"
-author: "Ken Burns & Lynn Novick"
 issue_areas: ["war"]
 media_types: ["video"]
-ethnic_groups: ["vietnamese"]	
+ethnic_groups: ["vietnamese"]
+image: ""
+type: regular
 ---
-
 
 Acclaimed 10 episode documentary about Vietnam War
 
-
-[Watch it here](https://www.pbs.org/kenburns/the-vietnam-war/)
+[Find it here](https://www.pbs.org/kenburns/the-vietnam-war/)
