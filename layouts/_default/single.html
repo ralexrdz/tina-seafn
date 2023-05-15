@@ -27,7 +27,8 @@
         {{ end }}
         {{ end }}
         <h1 class="h3 mb-4">{{.Title | markdownify}}</h1>
-         <div>
+        <h2 class="h4 mb-4">by {{ .Params.author | markdownify}}</h2>
+        <div>
             {{ range .Params.media_types }}
             <a href="{{`tags/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-secondary mb-4 d-inline-block"># {{. | title}}</a>
             {{ end }}
@@ -35,7 +36,9 @@
         <ul class="list-inline card-meta d-flex align-items-center mb-4">
           <li class="list-inline-item d-flex align-items-center">
             <i class="fas fa-user me-2"></i>
-            <a href="{{`about` | relLangURL}}">{{site.Params.author}}</a>
+            {{ range .Params.ethnic_groups }}
+            {{ . | title }}
+            {{ end }}
           </li>
           <li class="list-inline-item d-flex align-items-center">
             <i class="fas fa-calendar me-2"></i>

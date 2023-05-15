@@ -8,6 +8,7 @@ media_types: ["literature"]
 ethnic_groups: ["mien"]
 image: ""
 type: regular
+author: "Hjorleifur Jonsson"
 ---
 
 This study challenges the prevailing academic theory that groups living in the hinterlands of Southeast Asia have traditionally fled to the hills, seeking isolated independence and safety. As part of his challenge, Jonsson highlights the legacies of negotiating difference that have guided the Iu Mien in interactions with their neighbors.

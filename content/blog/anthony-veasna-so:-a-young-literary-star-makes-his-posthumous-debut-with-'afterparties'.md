@@ -9,6 +9,7 @@ media_types: ["literature"]
 ethnic_groups: ["cambodian"]
 image: "https://drive.google.com/uc?id=1IFb7sM4_oPpIEjwCmfFI-qWzWE_Nkz99"
 type: featured
+author: "Andrew Limbong"
 ---
 
 Afterparties is the highly anticipated debut book by writer Anthony Veasna So, who died in December, at the age of 28, of a drug overdose.

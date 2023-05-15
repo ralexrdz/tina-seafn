@@ -8,6 +8,7 @@ media_types: ["visual article"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Hoa Pham"
 ---
 
 Set against the background of the Vietnam war and in its aftermath the rule by the Communist regime, in The Lady of the Realm, we follow Liên's path across many decades that are punctuated by endless war and suffering.

@@ -8,6 +8,7 @@ media_types: ["visual article"]
 ethnic_groups: ["hmong"]
 image: "https://drive.google.com/uc?id=1UEg46p77YbV8_b4YdcCxncOIzv8fXpkk"
 type: featured
+author: "Maria Khan-Schwvisual artz"
 ---
 
 SUNAH wants to replace negative vocabulary from other Asian languages that some Hmong speakers use to refer to LGBTQ people. They used their time as an visual artist at The Cedar performance venue to craft new, positive alternatives in the Hmong language that translate to rainbow, butterfly, and handsome women, among others.

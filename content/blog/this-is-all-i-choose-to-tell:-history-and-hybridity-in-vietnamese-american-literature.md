@@ -8,6 +8,7 @@ media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Isabelle Thuy Pelaud"
 ---
 
 Moves beyond the common focus on the Vietnam war to develop an interpretive framework that integrates post-colonialism with the multi-generational refugee, immigrant, and transnational experiences at the center of Vietnamese American narratives.

@@ -8,6 +8,7 @@ media_types: ["literature", "music", "visual art"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Dao Strom"
 ---
 
 A memoir in text + image + song. In this unique work of literary multimedia, author/musician Dao Strom navigates the spaces between shores, mother and father, two cultures.

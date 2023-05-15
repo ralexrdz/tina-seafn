@@ -8,6 +8,7 @@ media_types: ["literature"]
 ethnic_groups: ["lao"]
 image: ""
 type: regular
+author: "Bryan Thao Worra"
 ---
 
 Blends memoir and Southeast Asian history, myth, horror and science fiction to weave a spellbinding meditation on 45 years of the Lao diaspora. These 55 poems focus largely on 1973 to the present  from the banks of the Mekong River during the Secret War for Laos to unexpected intersections of Southeast Asian history in the small towns of America and Asian American history.

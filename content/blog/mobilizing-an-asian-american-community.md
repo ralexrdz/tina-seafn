@@ -8,6 +8,7 @@ media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Linda Trinh Vo"
 ---
 
 Using historical materials, ethnographic fieldwork, and interviews, Vo traces the political strategies that enable Asian Americans to bridge ethnicity, generation, gender, language, and class differences, among others.

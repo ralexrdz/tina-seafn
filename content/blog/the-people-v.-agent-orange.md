@@ -8,6 +8,7 @@ media_types: ["video"]
 ethnic_groups: [""]
 image: ""
 type: regular
+author: "Alan Adelson & Kate Taverna"
 ---
 
 The People vs. Agent Orange closely follows two activists as they take on the chemical industry, and demand accountability for the pernicious legacy caused by the use of this poisonous herbicide.

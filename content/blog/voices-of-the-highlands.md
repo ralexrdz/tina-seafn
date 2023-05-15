@@ -8,6 +8,7 @@ media_types: ["archive"]
 ethnic_groups: ["montagnard"]
 image: "https://drive.google.com/uc?id=1BVm25DxGpM0WigSZrV7uOPPBcn_xCj-t"
 type: featured
+author: "Multiple authors"
 ---
 
 A storytelling platform highlighting Montagnard/Indigenous identity and experiences est. 2018.

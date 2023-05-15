@@ -8,6 +8,7 @@ media_types: ["literature"]
 ethnic_groups: ["lao"]
 image: ""
 type: regular
+author: "Krysada Panusith Phounsiri"
 ---
 
 Weaves the personal with the cultural, love with loss, and dancing with poetry. The poems express an element of what Lao America can be

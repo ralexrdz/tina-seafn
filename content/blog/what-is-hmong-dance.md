@@ -8,6 +8,7 @@ media_types: ["video"]
 ethnic_groups: ["hmong"]
 image: "https://drive.google.com/uc?id=1sjr-svhX1FA3YtTI0m0XxIbPoSk0YoRa"
 type: featured
+author: "Magnolia Yang Sao Yia"
 ---
 
 Hmong dance explored and accessed through film.

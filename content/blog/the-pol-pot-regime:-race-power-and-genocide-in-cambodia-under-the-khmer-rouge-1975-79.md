@@ -8,6 +8,7 @@ media_types: ["literature"]
 ethnic_groups: ["cambodian"]
 image: ""
 type: regular
+author: "Ben Kiernan"
 ---
 
 Ben Kiernan draws on more than five hundred interviews with Cambodian refugees, survivors, and defectors, as well as on a rich collection of previously unexplored archival material from the Pol Pot regime.

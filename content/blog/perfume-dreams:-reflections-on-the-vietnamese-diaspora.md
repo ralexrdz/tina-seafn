@@ -8,6 +8,7 @@ media_types: ["visual article", "podcast"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Andrew Lam"
 ---
 
 Andrew Lam explores his identity as a Viet Kieu -- a Vietnamese native living in the United States

@@ -8,6 +8,7 @@ media_types: ["visual article"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Huy Duc"
 ---
 
 A true history of Vietnam's post-reunification era

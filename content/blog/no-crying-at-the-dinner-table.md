@@ -8,6 +8,7 @@ media_types: ["video"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Carol Nguyen"
 ---
 
 Filmmaker Carol Nguyen interviews her own family to craft an emotionally complex and meticulously composed portrait of intergenerational trauma, grief, and secrets in this cathvisual artic documentary about things left unsaid.

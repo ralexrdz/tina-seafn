@@ -8,6 +8,7 @@ media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Eric Nguyen"
 ---
 
 Captivating novel about an immigrant Vietnamese family who settles in New Orleans and struggles to remain connected to one another as their lives are inextricably reshaped.

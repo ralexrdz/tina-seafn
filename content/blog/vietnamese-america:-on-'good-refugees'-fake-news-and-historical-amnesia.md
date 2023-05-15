@@ -8,6 +8,7 @@ media_types: ["visual article"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Vo, B. G"
 ---
 
 Vietnamese Americans are at a crossroads: the rise of mainstream misinformation and pro-Trump sentiment in their communities is not a historical aberration, yet attempts to explain it draw exclusively upon the good refugee narrative and fail to interrogate the legacy of imperialism and liberalism that all Americans inherit.

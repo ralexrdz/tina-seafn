@@ -8,6 +8,7 @@ media_types: ["literature"]
 ethnic_groups: ["mien"]
 image: ""
 type: regular
+author: "David Saechao"
 ---
 
 Explores their ancient history and dissonant relationship with the Chinese State, as well as their experiences during the Secret War in Laos and later as refugees in Thailand, before immigrating to the West

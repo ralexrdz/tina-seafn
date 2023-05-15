@@ -8,6 +8,7 @@ media_types: ["literature", "visual art"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Dao Strom"
 ---
 
 A bilingual English-Vietnamese poetry + visual art literature of fragments

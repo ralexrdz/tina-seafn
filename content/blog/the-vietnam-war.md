@@ -8,6 +8,7 @@ media_types: ["video"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Ken Burns & Lynn Novick"
 ---
 
 Acclaimed 10 episode documentary about Vietnam War

@@ -8,6 +8,7 @@ media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Mimi Thi Nguyen"
 ---
 
 Bringing together critiques of liberalism with postcolonial approaches to the modern cvisual artography of progress, Nguyen proposes 'the gift of freedom' as the name for those forces that avow to reverence aliveness and beauty, and to govern an enlightened humanity, while producing new subjects and actions--such as a grateful refugee, or enduring war--in an age of liberal empire.

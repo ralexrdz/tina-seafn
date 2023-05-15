@@ -8,6 +8,7 @@ media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Hoa Nguyen"
 ---
 
 A poetic meditation on historical, personal, and cultural pressures pre- and post-“Fall-of-Saigon” with verse biography on the poet's mother, Diệp Anh Nguyễn, a stunt motorcyclist in an all-women Vietnamese circus troupe.

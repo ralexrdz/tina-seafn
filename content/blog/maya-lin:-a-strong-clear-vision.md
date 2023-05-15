@@ -8,6 +8,7 @@ media_types: ["video"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Freida Lee Mock"
 ---
 
 Vietnam War Memorial

@@ -8,6 +8,7 @@ media_types: ["video"]
 ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Carol Nguyen"
 ---
 
 They say it only takes three generations for a culture to assimilate. What happens next?

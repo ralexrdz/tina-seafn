@@ -5,9 +5,10 @@ draft: false
 description: "Focusing on the politics of war memory and commemoration, this literature retheorizes the connections among history, memory, and power and refashions the fields of American studies, Asian American studies, and refugee studies not around the narratives of American exceptionalism, immigration, and transnationalism but around the crucial issues of war, race, and violence-and the history and memories that are forged in the aftermath of war."
 issue_areas: ["war", "immigration"]
 media_types: ["literature"]
-ethnic_groups: ["yen le espiritu"]
+ethnic_groups: ["vietnamese"]
 image: ""
 type: regular
+author: "Yen Le Espiritu"
 ---
 
 Focusing on the politics of war memory and commemoration, this literature retheorizes the connections among history, memory, and power and refashions the fields of American studies, Asian American studies, and refugee studies not around the narratives of American exceptionalism, immigration, and transnationalism but around the crucial issues of war, race, and violence-and the history and memories that are forged in the aftermath of war.
