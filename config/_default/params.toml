@@ -24,7 +24,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 search = true
 
 # Posts related Titles & Contents
-issue_areas_title = "Issues Areas"
+issue_areas_title = "Issue Areas"
 ethnic_groups_title = "Ethnic Groups"
 media_types_title = "Content formats"
 posts_title = "Featured"
@@ -37,7 +37,7 @@ previous_button = "Previous"
 next_button = "Next"
 related_posts = "Related Posts"
 showing_posts = "Showing Post From"
-no_issueAreas_found = "No Issues Areas Found"
+no_issueAreas_found = "No Issue Areas Found"
 no_mediaTypes_found = "No Media Types Found"
 no_etchinGroups_found = "No Ethnic Groups Found"
 
