@@ -7,8 +7,6 @@ url = ""
 weight = 1
 
 [[main]]
-
-[[main]]
 name = "Contact"
 url = "https://www.seafn.org/staff"
 weight = 3
