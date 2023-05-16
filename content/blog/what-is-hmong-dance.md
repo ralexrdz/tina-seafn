@@ -3,7 +3,7 @@ title: "What is Hmong Dance?"
 date: 2023-04-04
 draft: false
 description: "Hmong dance explored and accessed through film."
-issue_areas: ["visual art", "gender"]
+issue_areas: ["art", "gender"]
 media_types: ["video"]
 ethnic_groups: ["hmong"]
 image: "/images/1sjr-svhX1FA3YtTI0m0XxIbPoSk0YoRa.png"

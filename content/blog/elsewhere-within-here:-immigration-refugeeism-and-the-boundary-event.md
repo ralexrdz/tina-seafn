@@ -5,7 +5,7 @@ draft: false
 description: "Engaging look at travel across national borders--as a foreigner, a tourist, an immigrant, a refugee--in a pre- and post-9/11 world. Who is welcome where? What does it mean to feel out of place in the country you call home? When does the stranger appear in these times of dark metamorphoses?"
 issue_areas: ["immigration", "youth"]
 media_types: ["literature"]
-ethnic_groups: ["vietnamese/all?"]
+ethnic_groups: ["vietnamese"]
 image: "/images/1tZHfdrvj165K7rEsZoWKVtMZV1M_nHRd.png"
 type: featured
 author: "Trinh T. Minh-Ha"
