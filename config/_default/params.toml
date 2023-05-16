@@ -15,11 +15,11 @@ description = "A digital media archive that tells the story of Southeast Asians 
 author = "SEAFN"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
+# address = "9567 Turner Trace Apt. BC C3G8A4"
+# mobile = "+211234565523"
+# email = "info@email.com"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+# contact_form_action = "#" # contact form works with https://formspree.io
 # search
 search = true
 

@@ -1,23 +1,10 @@
 ---
 title: "About SEAFN and this Cultural Library"
-description: "this is meta-description"
+description: "The cultural library is a political education hub. It begins to answer the question: What is the story of Southeast Asian Americans? "
 image: "images/speech.png"
 layout: "about"
 draft: false
 
-# education
-education:
-  enable: false
-  title: "Formal Education"
-  education_list:
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Northeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Easteast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
 
 # experience
 experience:
@@ -35,17 +22,13 @@ experience:
 
 ---
 
+Southeast Asian Freedom Network (SEAFN) was formed in 2001 to create a united front against the deportation of Cambodian refugees. Chhaya Chhoum of Bronx, NY put out a national call to community organizers to solidify a national Southeast Asian grassroots movement, defend our communities from deportation, and move our collective work out of isolation. After two decades, SEAFN has evolved into a national movement family of local organizations dedicated to the mobilization of Southeast Asian communities towards abolition. 
+
+The cultural library is a political education hub. It begins to answer the question: What is the story of Southeast Asian Americans? 
+
 Southeast Asian refugees and immigrants in the U.S. have built vibrant neighborhoods filled with interdependence and creativity–despite ongoing deportations and targeting from the government. There is more to our story than surviving war and imperialism. The cultural library offers a glimpse into the wisdom of our communities. Among the resources you’ll find are academic articles about domestic violence, poetry, dance footage, LGBTQ dictionaries, and more. 
 
-This Cultural Library was generated to:
 
-Purpose: A digital media archive that tells the story of Southeast Asians in the the United States, in order to increase visibility, educate the public, and shift the political landscape of our communities.
+SEAFN is grateful for the partnership of 18 Million Rising and AAPI Women Lead, who also contribute to the library’s contents and promotion. 
 
-Audience: Students, educators, community organizers, advocates, caregivers
-
-Message: Southeast Asian history is more complex than the war. Refugees have demonstrated resilience and created networks of care despite government neglect. Southeast Asian history illustrates the connection between the imperialist violence machine and climate catastrophe, therefore Southeast Asians hold the wisdom to assist in creating a better world for all people and our planet. Refugee resettlement was a failure.
-
-Engagement: Assets are shared on social media, and spread via influencers. Creating content through connecting with relevant influencers and having them highlight their contributions to the library. 
-
-Measures of success: 1000 page views at the end of 2023. 4 influencer activations. 3 organizational partnerships.
 

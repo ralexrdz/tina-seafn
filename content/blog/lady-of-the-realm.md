@@ -4,7 +4,7 @@ date: 2023-04-04
 draft: false
 description: "Set against the background of the Vietnam war and in its aftermath the rule by the Communist regime, in The Lady of the Realm, we follow Liên's path across many decades that are punctuated by endless war and suffering."
 issue_areas: ["war", "youth"]
-media_types: ["visual article"]
+media_types: ["visual art"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1gNIuqwqoR_mDasCD2-L3CSfQ3JhsUuIr.png"
 type: featured
