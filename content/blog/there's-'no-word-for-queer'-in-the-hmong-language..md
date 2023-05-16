@@ -6,7 +6,7 @@ description: "SUNAH wants to replace negative vocabulary from other Asian langua
 issue_areas: ["gender", "lgbtq"]
 media_types: ["visual article"]
 ethnic_groups: ["hmong"]
-image: "https://drive.google.com/uc?id=1UEg46p77YbV8_b4YdcCxncOIzv8fXpkk"
+image: "/images/1UEg46p77YbV8_b4YdcCxncOIzv8fXpkk.png"
 type: featured
 author: "Maria Khan-Schwvisual artz"
 ---

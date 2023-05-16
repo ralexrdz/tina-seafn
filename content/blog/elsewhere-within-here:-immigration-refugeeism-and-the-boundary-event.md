@@ -6,7 +6,7 @@ description: "Engaging look at travel across national borders--as a foreigner, a
 issue_areas: ["immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese/all?"]
-image: "https://drive.google.com/uc?id=1tZHfdrvj165K7rEsZoWKVtMZV1M_nHRd"
+image: "/images/1tZHfdrvj165K7rEsZoWKVtMZV1M_nHRd.png"
 type: featured
 author: "Trinh T. Minh-Ha"
 ---

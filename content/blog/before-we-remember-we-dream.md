@@ -6,7 +6,7 @@ description: "Blends memoir and Southeast Asian history, myth, horror and scienc
 issue_areas: ["art", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["lao"]
-image: "https://drive.google.com/uc?id=1TMp-CT7IiytjCvD-S6ZeIQQcavhLjsKD"
+image: "/images/1TMp-CT7IiytjCvD-S6ZeIQQcavhLjsKD.png"
 type: featured
 author: "Bryan Thao Worra"
 ---

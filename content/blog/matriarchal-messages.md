@@ -6,7 +6,7 @@ description: "Matriarchal Messages exists as a loving reminder from my Mien wome
 issue_areas: ["visual art", "gender"]
 media_types: ["visual visual art"]
 ethnic_groups: ["mien", "khmu"]
-image: "https://drive.google.com/uc?id=1Tg-ZgshvvgxNBGKJpa8GOZE08V7_PdVO"
+image: "/images/1Tg-ZgshvvgxNBGKJpa8GOZE08V7_PdVO.png"
 type: featured
 author: "J. Saechao"
 ---

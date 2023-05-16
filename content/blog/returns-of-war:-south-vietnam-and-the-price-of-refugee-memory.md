@@ -6,7 +6,7 @@ description: "Returns of War argues that Vietnamization--as Richard Nixon termed
 issue_areas: ["war"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1Zqjkh4uQs8GP1jufOU84wWK4keMcxql4"
+image: "/images/1Zqjkh4uQs8GP1jufOU84wWK4keMcxql4.png"
 type: featured
 author: "Long T. Bui"
 ---

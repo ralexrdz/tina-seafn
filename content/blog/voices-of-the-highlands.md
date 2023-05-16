@@ -6,7 +6,7 @@ description: "A storytelling platform highlighting Montagnard/Indigenous identit
 issue_areas: ["criminalization", "war"]
 media_types: ["archive"]
 ethnic_groups: ["montagnard"]
-image: "https://drive.google.com/uc?id=1BVm25DxGpM0WigSZrV7uOPPBcn_xCj-t"
+image: "/images/1BVm25DxGpM0WigSZrV7uOPPBcn_xCj-t.png"
 type: featured
 author: "Multiple authors"
 ---

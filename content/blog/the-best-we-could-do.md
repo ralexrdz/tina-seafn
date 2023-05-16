@@ -6,7 +6,7 @@ description: "This beautifully illustrated and emotional story is an evocative m
 issue_areas: ["immigration"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=10_WYmvjkRLuw72OP1eyAYJ_aBxE3bCHS"
+image: "/images/10_WYmvjkRLuw72OP1eyAYJ_aBxE3bCHS.png"
 type: featured
 author: "Thi Bui"
 ---

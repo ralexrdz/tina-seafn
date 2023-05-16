@@ -6,7 +6,7 @@ description: "A true history of Vietnam's post-reunification era"
 issue_areas: ["war"]
 media_types: ["visual article"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=112FgABsilL3PwM0nWHAjhYVhz3vM29Dr"
+image: "/images/112FgABsilL3PwM0nWHAjhYVhz3vM29Dr.png"
 type: featured
 author: "Huy Duc"
 ---

@@ -6,7 +6,7 @@ description: "Emma-Jade and Louis are born into the havoc of the Vietnam War. Or
 issue_areas: ["war", "youth"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=12suD5KY4-Jczh79_9qNtWcG8akF1CY9f"
+image: "/images/12suD5KY4-Jczh79_9qNtWcG8akF1CY9f.png"
 type: featured
 author: "Kim Thuy"
 ---

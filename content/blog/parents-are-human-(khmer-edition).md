@@ -6,7 +6,7 @@ description: "A bilingual connection card game designed to spark deep conversati
 issue_areas: ["youth"]
 media_types: ["game"]
 ethnic_groups: ["cambodian"]
-image: "https://drive.google.com/uc?id=1BOpFmbd714PuO6l48FPIi-yfNBOTZlAa"
+image: "/images/1BOpFmbd714PuO6l48FPIi-yfNBOTZlAa.png"
 type: featured
 author: "Parents Are Human"
 ---

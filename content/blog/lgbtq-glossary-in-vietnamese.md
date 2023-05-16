@@ -6,7 +6,7 @@ description: "A glossary featuring Vietnamese and other languages to assist fami
 issue_areas: ["lgbtq", "gender"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1LXKftDrnWha-tNNXIgQ9xiG6QhWrHHBQ"
+image: "/images/1LXKftDrnWha-tNNXIgQ9xiG6QhWrHHBQ.png"
 type: featured
 author: "Asian Health Services"
 ---

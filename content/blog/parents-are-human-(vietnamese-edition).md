@@ -6,7 +6,7 @@ description: "A bilingual connection card game designed to spark deep conversati
 issue_areas: ["youth"]
 media_types: ["game"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1tvrQS6FJkmIDC1ColYubhTtNOZeo1wad"
+image: "/images/1tvrQS6FJkmIDC1ColYubhTtNOZeo1wad.png"
 type: featured
 author: "Parents Are Human"
 ---

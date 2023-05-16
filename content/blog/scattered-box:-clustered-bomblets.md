@@ -7,7 +7,7 @@ description: "Sisavanh Phouthavong's sculpture, “Scattered Box: Clustered Bomb
 issue_areas: ["war"]
 media_types: ["visual art"]
 ethnic_groups: ["lao"]
-image: "https://drive.google.com/uc?id=1BxYty-Slijia7wjXahPktsBoy2r6FvQL"
+image: "/images/1BxYty-Slijia7wjXahPktsBoy2r6FvQL.png"
 type: featured
 author: "Sisavanh Phouthavong"
 ---

@@ -6,7 +6,7 @@ description: "A literature of testimonies in verse, Winter Phoenix is a collecti
 issue_areas: ["war", "immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1bukVQH0ux2zNX3Imycu2qg4Kv7ceSEdZ"
+image: "/images/1bukVQH0ux2zNX3Imycu2qg4Kv7ceSEdZ.png"
 type: featured
 author: "Sophia Terazawa"
 ---

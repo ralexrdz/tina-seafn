@@ -6,7 +6,7 @@ description: "Hmong dance explored and accessed through film."
 issue_areas: ["visual art", "gender"]
 media_types: ["video"]
 ethnic_groups: ["hmong"]
-image: "https://drive.google.com/uc?id=1sjr-svhX1FA3YtTI0m0XxIbPoSk0YoRa"
+image: "/images/1sjr-svhX1FA3YtTI0m0XxIbPoSk0YoRa.png"
 type: featured
 author: "Magnolia Yang Sao Yia"
 ---

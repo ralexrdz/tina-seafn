@@ -6,7 +6,7 @@ description: "In this staggering poetry debut, Monica Sok illuminates the experi
 issue_areas: ["gender"]
 media_types: ["literature"]
 ethnic_groups: ["cambodian"]
-image: "https://drive.google.com/uc?id=1T2nt7lxVDZsin20gI8Yu4aBb11UxzbNC"
+image: "/images/1T2nt7lxVDZsin20gI8Yu4aBb11UxzbNC.png"
 type: featured
 author: "Monica Sok"
 ---

@@ -6,7 +6,7 @@ description: "Set against the background of the Vietnam war and in its aftermath
 issue_areas: ["war", "youth"]
 media_types: ["visual article"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1gNIuqwqoR_mDasCD2-L3CSfQ3JhsUuIr"
+image: "/images/1gNIuqwqoR_mDasCD2-L3CSfQ3JhsUuIr.png"
 type: featured
 author: "Hoa Pham"
 ---

@@ -6,7 +6,7 @@ description: ""
 issue_areas: ["war", "gender"]
 media_types: ["article"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=undefined"
+image: "/images/undefined.png"
 type: featured
 author: "Connie Wun"
 ---

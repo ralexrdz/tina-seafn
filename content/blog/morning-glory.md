@@ -6,7 +6,7 @@ description: "“During Pol Pot's [regime in the] 1970s, the most important sour
 issue_areas: ["war"]
 media_types: ["visual art"]
 ethnic_groups: ["cambodian"]
-image: "https://drive.google.com/uc?id=1lKy05fcN1XcUXFekd3-bhoPAeC2r49k9"
+image: "/images/1lKy05fcN1XcUXFekd3-bhoPAeC2r49k9.png"
 type: featured
 author: "Sopheap Pich"
 ---

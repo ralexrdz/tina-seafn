@@ -6,7 +6,7 @@ description: "Vietnamese Americans are at a crossroads: the rise of mainstream m
 issue_areas: ["immigration"]
 media_types: ["visual article"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1B2oBoNYA3HAAtYXM3qSofCRxIw_fN0xs"
+image: "/images/1B2oBoNYA3HAAtYXM3qSofCRxIw_fN0xs.png"
 type: featured
 author: "Vo, B. G"
 ---

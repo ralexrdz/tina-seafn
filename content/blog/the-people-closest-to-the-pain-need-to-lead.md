@@ -6,7 +6,7 @@ description: "Host A'shanti Gholar speaks with Kabzuag Vaj, the co-founder and c
 issue_areas: ["gender", "criminalization", "youth"]
 media_types: ["podcast"]
 ethnic_groups: ["hmong"]
-image: "https://drive.google.com/uc?id=10fEOE-JnvetCEg2E_zu4uhnRxv1wdCyQ"
+image: "/images/10fEOE-JnvetCEg2E_zu4uhnRxv1wdCyQ.png"
 type: featured
 author: "The Brown Girls Guide to Politics"
 ---

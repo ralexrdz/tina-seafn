@@ -6,7 +6,7 @@ description: "Vietnam War Memorial"
 issue_areas: ["war"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1utn6TkW9AiYb72F_PIcN2C1hzIrib7Qv"
+image: "/images/1utn6TkW9AiYb72F_PIcN2C1hzIrib7Qv.png"
 type: featured
 author: "Freida Lee Mock"
 ---

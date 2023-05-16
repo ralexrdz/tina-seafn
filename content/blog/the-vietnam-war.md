@@ -6,7 +6,7 @@ description: "Acclaimed 10 episode documentary about Vietnam War"
 issue_areas: ["war"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=12VSN8l0G-LKH4WjkBojqju3CHmjY4TKL"
+image: "/images/12VSN8l0G-LKH4WjkBojqju3CHmjY4TKL.png"
 type: featured
 author: "Ken Burns & Lynn Novick"
 ---

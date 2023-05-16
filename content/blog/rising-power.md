@@ -6,7 +6,7 @@ description: "“Rising Power” brings us to Madison, Wisconsin, where we meet 
 issue_areas: ["criminalization"]
 media_types: ["video"]
 ethnic_groups: ["hmong"]
-image: "https://drive.google.com/uc?id=1Jigl5LeQTr1ZNVn7KUd7lXYHatH9jrDI"
+image: "/images/1Jigl5LeQTr1ZNVn7KUd7lXYHatH9jrDI.png"
 type: featured
 author: "Director: Sharmeen Obaid-Chinoy"
 ---

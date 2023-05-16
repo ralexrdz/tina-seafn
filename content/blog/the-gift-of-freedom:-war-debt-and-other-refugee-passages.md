@@ -6,7 +6,7 @@ description: "Bringing together critiques of liberalism with postcolonial approa
 issue_areas: ["war", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1Aa3sFk2cZxF7MvA7kHWcsmYlVCLpoDDR"
+image: "/images/1Aa3sFk2cZxF7MvA7kHWcsmYlVCLpoDDR.png"
 type: featured
 author: "Mimi Thi Nguyen"
 ---

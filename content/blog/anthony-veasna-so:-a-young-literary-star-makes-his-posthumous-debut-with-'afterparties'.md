@@ -7,7 +7,7 @@ description: "Afterparties is the highly anticipated debut book by writer Anthon
 issue_areas: ["gender", "lgbtq"]
 media_types: ["literature"]
 ethnic_groups: ["cambodian"]
-image: "https://drive.google.com/uc?id=1IFb7sM4_oPpIEjwCmfFI-qWzWE_Nkz99"
+image: "/images/1IFb7sM4_oPpIEjwCmfFI-qWzWE_Nkz99.png"
 type: featured
 author: "Andrew Limbong"
 ---

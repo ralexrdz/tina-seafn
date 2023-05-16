@@ -6,7 +6,7 @@ description: "Captivating novel about an immigrant Vietnamese family who settles
 issue_areas: ["immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1WMIG2toua64RuvpqRjnNLaukhnWJZhMn"
+image: "/images/1WMIG2toua64RuvpqRjnNLaukhnWJZhMn.png"
 type: featured
 author: "Eric Nguyen"
 ---

@@ -6,7 +6,7 @@ description: "In this presentation from Fall 2018 Virtual Cultural Festival, stu
 issue_areas: ["criminalization", "war"]
 media_types: ["video"]
 ethnic_groups: ["montagnard"]
-image: "https://drive.google.com/uc?id=1BBgjdNMJ2LWIKAa9a49dfXUX4QqcT33s"
+image: "/images/1BBgjdNMJ2LWIKAa9a49dfXUX4QqcT33s.png"
 type: featured
 author: "H'Abigail Mlo, Ly Nuin, Phun H"
 ---

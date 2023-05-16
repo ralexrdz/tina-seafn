@@ -6,7 +6,7 @@ description: "Follows a young girl from her childhood in a military camp in 1990
 issue_areas: ["war", "immigration", "youth"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1KrAHszpJBOBNp5Kc25jhezlnJFmMDXCf"
+image: "/images/1KrAHszpJBOBNp5Kc25jhezlnJFmMDXCf.png"
 type: featured
 author: "Abbigal N. Rosewood"
 ---

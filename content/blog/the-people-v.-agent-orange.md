@@ -6,7 +6,7 @@ description: "The People vs. Agent Orange closely follows two activists as they 
 issue_areas: ["health", "war"]
 media_types: ["video"]
 ethnic_groups: [""]
-image: "https://drive.google.com/uc?id=1T_Hni9huO73WrsoqXEYL0zD2fjZ01DhY"
+image: "/images/1T_Hni9huO73WrsoqXEYL0zD2fjZ01DhY.png"
 type: featured
 author: "Alan Adelson & Kate Taverna"
 ---

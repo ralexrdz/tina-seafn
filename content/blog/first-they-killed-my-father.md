@@ -6,7 +6,7 @@ description: "Five-year-old Luong Ung is the second youngest child in a large an
 issue_areas: ["war", "youth"]
 media_types: ["video", "literature"]
 ethnic_groups: ["cambodian"]
-image: "https://drive.google.com/uc?id=1sg1rj2kVjdrjUWnrHvE2meN-_lmLzs8h"
+image: "/images/1sg1rj2kVjdrjUWnrHvE2meN-_lmLzs8h.png"
 type: featured
 author: "Loung Ung"
 ---

@@ -6,7 +6,7 @@ description: "Interactive graphic novel based on the acclaimed short story by Na
 issue_areas: ["war", "immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
-image: "https://drive.google.com/uc?id=1eu62bz9jCUzXu-0hZakMjJZUC8amgECh"
+image: "/images/1eu62bz9jCUzXu-0hZakMjJZUC8amgECh.png"
 type: featured
 author: "Matt Huynh"
 ---
