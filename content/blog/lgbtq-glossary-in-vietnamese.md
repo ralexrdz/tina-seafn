@@ -7,7 +7,7 @@ issue_areas: ["lgbtq", "gender"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1LXKftDrnWha-tNNXIgQ9xiG6QhWrHHBQ.png"
-type: featured
+type: "featured"
 author: "Asian Health Services"
 ---
 

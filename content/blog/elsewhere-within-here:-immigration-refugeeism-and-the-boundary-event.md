@@ -7,7 +7,7 @@ issue_areas: ["immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1tZHfdrvj165K7rEsZoWKVtMZV1M_nHRd.png"
-type: featured
+type: "regular"
 author: "Trinh T. Minh-Ha"
 ---
 

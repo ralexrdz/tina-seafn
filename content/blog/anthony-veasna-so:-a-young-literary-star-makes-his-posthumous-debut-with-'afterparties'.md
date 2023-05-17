@@ -8,7 +8,7 @@ issue_areas: ["gender", "lgbtq"]
 media_types: ["literature"]
 ethnic_groups: ["cambodian"]
 image: "/images/1IFb7sM4_oPpIEjwCmfFI-qWzWE_Nkz99.png"
-type: featured
+type: "regular"
 author: "Andrew Limbong"
 ---
 

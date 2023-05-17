@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration", "youth"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1nttrlN7bWkWpUsyb5yQF3Z_DsEFBuUX2.png"
-type: featured
+type: "regular"
 author: "Carol Nguyen"
 ---
 

@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration", "art", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["hmong"]
 image: "/images/1nKVg5Gm2erR0ytnGLp9jMkK1g2_FT6Ox.png"
-type: featured
+type: "regular"
 author: "Burlee Vang"
 ---
 

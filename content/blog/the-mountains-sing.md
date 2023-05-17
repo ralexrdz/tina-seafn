@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1CyX6Q0p2BF45D7Do2lgxVSP1LV7rr9J7.png"
-type: featured
+type: "regular"
 author: "Nguyễn Phan Quế Mai"
 ---
 

@@ -7,7 +7,7 @@ issue_areas: ["war", "youth"]
 media_types: ["visual art"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1gNIuqwqoR_mDasCD2-L3CSfQ3JhsUuIr.png"
-type: featured
+type: "regular"
 author: "Hoa Pham"
 ---
 

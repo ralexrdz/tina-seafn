@@ -7,7 +7,7 @@ issue_areas: ["war", "youth"]
 media_types: ["video", "literature"]
 ethnic_groups: ["cambodian"]
 image: "/images/1sg1rj2kVjdrjUWnrHvE2meN-_lmLzs8h.png"
-type: featured
+type: "regular"
 author: "Loung Ung"
 ---
 

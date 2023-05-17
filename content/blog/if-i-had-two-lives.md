@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration", "youth"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1KrAHszpJBOBNp5Kc25jhezlnJFmMDXCf.png"
-type: featured
+type: "regular"
 author: "Abbigal N. Rosewood"
 ---
 

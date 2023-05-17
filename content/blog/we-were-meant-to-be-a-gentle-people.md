@@ -7,7 +7,7 @@ issue_areas: [""]
 media_types: ["literature", "music", "visual art"]
 ethnic_groups: ["vietnamese"]
 image: "/images/11-Q1ZjEDK3Nbj9b-fIMrqnh6V36F39_g.png"
-type: featured
+type: "regular"
 author: "Dao Strom"
 ---
 

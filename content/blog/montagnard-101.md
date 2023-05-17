@@ -7,7 +7,7 @@ issue_areas: ["criminalization", "war"]
 media_types: ["video"]
 ethnic_groups: ["montagnard"]
 image: "/images/1BBgjdNMJ2LWIKAa9a49dfXUX4QqcT33s.png"
-type: featured
+type: "regular"
 author: "H'Abigail Mlo, Ly Nuin, Phun H"
 ---
 

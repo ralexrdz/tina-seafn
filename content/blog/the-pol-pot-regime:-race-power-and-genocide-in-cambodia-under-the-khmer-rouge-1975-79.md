@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["cambodian"]
 image: "/images/1FODz7XC_c_Vtak2NlIWq2-wqIkm0fGlj.png"
-type: featured
+type: "regular"
 author: "Ben Kiernan"
 ---
 

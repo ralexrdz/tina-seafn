@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/19jpxx9M7d5JAHrxeSwkpIKBaF6BtXI57.png"
-type: featured
+type: "regular"
 author: "Isabelle Thuy Pelaud"
 ---
 

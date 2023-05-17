@@ -7,7 +7,7 @@ issue_areas: ["immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1twf_Td2DxxIkUms5-BQY40qCNHc2ynil.png"
-type: featured
+type: "regular"
 author: "Ocean Vuong"
 ---
 

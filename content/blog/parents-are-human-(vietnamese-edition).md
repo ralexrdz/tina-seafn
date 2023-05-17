@@ -7,7 +7,7 @@ issue_areas: ["youth"]
 media_types: ["game"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1tvrQS6FJkmIDC1ColYubhTtNOZeo1wad.png"
-type: featured
+type: "featured"
 author: "Parents Are Human"
 ---
 

@@ -7,7 +7,7 @@ issue_areas: ["immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1WMIG2toua64RuvpqRjnNLaukhnWJZhMn.png"
-type: featured
+type: "regular"
 author: "Eric Nguyen"
 ---
 

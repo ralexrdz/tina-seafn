@@ -7,7 +7,7 @@ issue_areas: ["art", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["lao"]
 image: "/images/1TMp-CT7IiytjCvD-S6ZeIQQcavhLjsKD.png"
-type: featured
+type: "regular"
 author: "Bryan Thao Worra"
 ---
 

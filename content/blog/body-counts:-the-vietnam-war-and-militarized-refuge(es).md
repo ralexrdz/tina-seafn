@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1mt2MHXBo5QTCXR7lQvvtIUgWVbBTB3QJ.png"
-type: featured
+type: "regular"
 author: "Yen Le Espiritu"
 ---
 

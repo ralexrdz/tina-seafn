@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1GO6myZ2KCV695Yk8280AmMmf__4Exnde.png"
-type: featured
+type: "regular"
 author: "Matt Huynh"
 ---
 

@@ -7,7 +7,7 @@ issue_areas: ["criminalization", "war"]
 media_types: ["archive"]
 ethnic_groups: ["montagnard"]
 image: "/images/1BVm25DxGpM0WigSZrV7uOPPBcn_xCj-t.png"
-type: featured
+type: "regular"
 author: "Multiple authors"
 ---
 

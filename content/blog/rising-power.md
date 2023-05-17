@@ -7,7 +7,7 @@ issue_areas: ["criminalization"]
 media_types: ["video"]
 ethnic_groups: ["hmong"]
 image: "/images/1Jigl5LeQTr1ZNVn7KUd7lXYHatH9jrDI.png"
-type: featured
+type: "featured"
 author: "Director: Sharmeen Obaid-Chinoy"
 ---
 

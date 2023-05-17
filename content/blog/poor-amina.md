@@ -7,7 +7,7 @@ issue_areas: ["war", "art", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["hmong"]
 image: "/images/13R-njkeCiFj3n-qCohfHc43MtUWqtulp.png"
-type: featured
+type: "regular"
 author: "Khaty Xiong"
 ---
 

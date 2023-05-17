@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1Aa3sFk2cZxF7MvA7kHWcsmYlVCLpoDDR.png"
-type: featured
+type: "regular"
 author: "Mimi Thi Nguyen"
 ---
 

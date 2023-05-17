@@ -7,7 +7,7 @@ issue_areas: ["war"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1utn6TkW9AiYb72F_PIcN2C1hzIrib7Qv.png"
-type: featured
+type: "regular"
 author: "Freida Lee Mock"
 ---
 

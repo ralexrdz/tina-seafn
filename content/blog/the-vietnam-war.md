@@ -7,7 +7,7 @@ issue_areas: ["war"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
 image: "/images/12VSN8l0G-LKH4WjkBojqju3CHmjY4TKL.png"
-type: featured
+type: "regular"
 author: "Ken Burns & Lynn Novick"
 ---
 

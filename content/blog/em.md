@@ -7,7 +7,7 @@ issue_areas: ["war", "youth"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
 image: "/images/12suD5KY4-Jczh79_9qNtWcG8akF1CY9f.png"
-type: featured
+type: "regular"
 author: "Kim Thuy"
 ---
 

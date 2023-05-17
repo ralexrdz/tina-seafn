@@ -7,7 +7,7 @@ issue_areas: ["health"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1fb00hmXIxkdqCU8pEUnppkF6e8FpT3tx.png"
-type: featured
+type: "regular"
 author: "Lê Kế Sơn & Charles R. Bailey"
 ---
 

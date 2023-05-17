@@ -7,7 +7,7 @@ issue_areas: ["immigration", "art"]
 media_types: ["literature"]
 ethnic_groups: ["lao"]
 image: "/images/1CNdEyEkFXbkTETgMsVIzXZie6i0AiRkr.png"
-type: featured
+type: "regular"
 author: "Krysada Panusith Phounsiri"
 ---
 

@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1bukVQH0ux2zNX3Imycu2qg4Kv7ceSEdZ.png"
-type: featured
+type: "regular"
 author: "Sophia Terazawa"
 ---
 

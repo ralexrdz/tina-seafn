@@ -7,7 +7,7 @@ issue_areas: ["art", "gender"]
 media_types: ["video"]
 ethnic_groups: ["hmong"]
 image: "/images/1sjr-svhX1FA3YtTI0m0XxIbPoSk0YoRa.png"
-type: featured
+type: "regular"
 author: "Magnolia Yang Sao Yia"
 ---
 

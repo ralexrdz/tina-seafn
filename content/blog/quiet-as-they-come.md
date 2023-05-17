@@ -7,7 +7,7 @@ issue_areas: ["immigration"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1cDQWLFjzO17SOT2kw9FC5WgYFVXZ95MJ.png"
-type: featured
+type: "regular"
 author: "Angie Chau"
 ---
 

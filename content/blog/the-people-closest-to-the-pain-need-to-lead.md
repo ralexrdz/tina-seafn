@@ -7,7 +7,7 @@ issue_areas: ["gender", "criminalization", "youth"]
 media_types: ["podcast"]
 ethnic_groups: ["hmong"]
 image: "/images/10fEOE-JnvetCEg2E_zu4uhnRxv1wdCyQ.png"
-type: featured
+type: "regular"
 author: "The Brown Girls Guide to Politics"
 ---
 

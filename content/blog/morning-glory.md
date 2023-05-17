@@ -7,7 +7,7 @@ issue_areas: ["war"]
 media_types: ["visual art"]
 ethnic_groups: ["cambodian"]
 image: "/images/1lKy05fcN1XcUXFekd3-bhoPAeC2r49k9.png"
-type: featured
+type: "regular"
 author: "Sopheap Pich"
 ---
 

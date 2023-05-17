@@ -7,7 +7,7 @@ issue_areas: ["immigration"]
 media_types: ["video"]
 ethnic_groups: ["vietnamese"]
 image: "/images/10_WYmvjkRLuw72OP1eyAYJ_aBxE3bCHS.png"
-type: featured
+type: "regular"
 author: "Thi Bui"
 ---
 

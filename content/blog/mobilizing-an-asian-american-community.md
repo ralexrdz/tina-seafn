@@ -7,7 +7,7 @@ issue_areas: ["immigration", "youth"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1-pMzmMYndVnOvYH9NqaFFpYpR9H8GFj4.png"
-type: featured
+type: "regular"
 author: "Linda Trinh Vo"
 ---
 

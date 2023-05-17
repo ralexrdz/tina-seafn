@@ -7,7 +7,7 @@ issue_areas: ["war"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1Zqjkh4uQs8GP1jufOU84wWK4keMcxql4.png"
-type: featured
+type: "regular"
 author: "Long T. Bui"
 ---
 

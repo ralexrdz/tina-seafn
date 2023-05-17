@@ -7,7 +7,7 @@ issue_areas: ["war", "immigration"]
 media_types: ["literature"]
 ethnic_groups: ["mien"]
 image: "/images/12yjEF7IGVLUCEaM7vtVgEh1IkZh4IP2R.png"
-type: featured
+type: "regular"
 author: "David Saechao"
 ---
 

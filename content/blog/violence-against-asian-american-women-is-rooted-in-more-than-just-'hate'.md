@@ -7,7 +7,7 @@ issue_areas: ["war", "gender"]
 media_types: ["article"]
 ethnic_groups: ["vietnamese"]
 image: "/images/undefined.png"
-type: featured
+type: "regular"
 author: "Connie Wun"
 ---
 

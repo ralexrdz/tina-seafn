@@ -7,7 +7,7 @@ issue_areas: ["youth"]
 media_types: ["game"]
 ethnic_groups: ["cambodian"]
 image: "/images/1BOpFmbd714PuO6l48FPIi-yfNBOTZlAa.png"
-type: featured
+type: "regular"
 author: "Parents Are Human"
 ---
 

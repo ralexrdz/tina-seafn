@@ -7,7 +7,7 @@ issue_areas: ["war"]
 media_types: ["literature"]
 ethnic_groups: ["vietnamese"]
 image: "/images/1zXR9ghg7JcFRJ8wkZ4faU42j02CBZt5B.png"
-type: featured
+type: "regular"
 author: "Hoa Nguyen"
 ---
 

@@ -7,7 +7,7 @@ issue_areas: ["gender"]
 media_types: ["literature"]
 ethnic_groups: ["cambodian"]
 image: "/images/1T2nt7lxVDZsin20gI8Yu4aBb11UxzbNC.png"
-type: featured
+type: "featured"
 author: "Monica Sok"
 ---
 

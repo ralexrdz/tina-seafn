@@ -7,7 +7,7 @@ issue_areas: ["gender"]
 media_types: ["visual art"]
 ethnic_groups: ["mien", "khmu"]
 image: "/images/1Tg-ZgshvvgxNBGKJpa8GOZE08V7_PdVO.png"
-type: featured
+type: "featured"
 author: "J. Saechao"
 ---
 

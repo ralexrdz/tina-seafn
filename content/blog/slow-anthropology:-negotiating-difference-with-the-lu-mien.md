@@ -7,7 +7,7 @@ issue_areas: ["war"]
 media_types: ["literature"]
 ethnic_groups: ["mien"]
 image: "/images/14ukp9itimmqn_MJ8S8CXDC7VD2mT8w8w.png"
-type: featured
+type: "regular"
 author: "Hjorleifur Jonsson"
 ---
 

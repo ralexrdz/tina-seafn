@@ -7,6 +7,11 @@ url = ""
 weight = 1
 
 [[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
 name = "Contact"
 url = "https://www.seafn.org/staff"
 weight = 3
@@ -19,19 +24,19 @@ hasChildren = true
 
   [[main]]
   parent = "Find by"
-  name = "Media Types"
+  name = "Content Type"
   url = "media_types/"
   weight = 1
 
   [[main]]
   parent = "Find by"
-  name = "Issue Areas"
+  name = "Issue Area"
   url = "issue_areas/"
   weight = 2
   
   [[main]]
   parent = "Find by"
-  name = "Ethnic Groups"
+  name = "Ethnic Group"
   url = "ethnic_groups/"
   weight = 3
 

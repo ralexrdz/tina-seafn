@@ -8,7 +8,7 @@ issue_areas: ["war"]
 media_types: ["visual art"]
 ethnic_groups: ["lao"]
 image: "/images/1BxYty-Slijia7wjXahPktsBoy2r6FvQL.png"
-type: featured
+type: "featured"
 author: "Sisavanh Phouthavong"
 ---
 

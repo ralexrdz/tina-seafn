@@ -7,7 +7,7 @@ issue_areas: ["war", "art"]
 media_types: ["literature"]
 ethnic_groups: ["hmong"]
 image: "/images/1Q0O4khPV47dWI0T9SpzYTmyoNnlV6-Bv.png"
-type: featured
+type: "regular"
 author: "Mai Der Vang"
 ---
 
