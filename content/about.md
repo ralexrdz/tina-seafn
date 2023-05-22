@@ -22,7 +22,7 @@ experience:
 
 ---
 
-Southeast Asian Freedom Network (SEAFN) was formed in 2001 to create a united front against the deportation of Cambodian refugees. Chhaya Chhoum of Bronx, NY put out a national call to community organizers to solidify a national Southeast Asian grassroots movement, defend our communities from deportation, and move our collective work out of isolation. After two decades, SEAFN has evolved into a national movement family of local organizations dedicated to the mobilization of Southeast Asian communities towards abolition. 
+Southeast Asian Freedom Network (SEAFN) was formed in 2002 to create a united front against the deportation of Cambodian refugees. Chhaya Chhoum of Bronx, NY put out a national call to community organizers to solidify a national Southeast Asian grassroots movement, defend our communities from deportation, and move our collective work out of isolation. After two decades, SEAFN has evolved into a national movement family of local organizations dedicated to the mobilization of Southeast Asian communities towards abolition. 
 
 The cultural library is a political education hub. It begins to answer the question: What is the story of Southeast Asian Americans? 
 
