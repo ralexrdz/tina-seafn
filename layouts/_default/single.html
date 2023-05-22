@@ -16,21 +16,25 @@
           <ul class="list-inline card-badge">
             {{ range .Params.issue_areas }}
             <li class="list-inline-item">
-              <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
+              <a href="{{`issue_areas/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary py-1">{{. | title}}</a>
             </li>
             {{ end }}
           </ul>
         </div>
         {{ else }}
         {{ range .Params.issue_areas }}
-        <a href="{{`categories/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary mb-4 d-inline-block">{{. | title}}</a>
+        <a href="{{`issue_areas/` | relLangURL}}{{. | lower | urlize}}" class="badge badge-primary mb-4 d-inline-block">
+          {{. | title}}
+        </a>
         {{ end }}
         {{ end }}
         <h1 class="h3 mb-4">{{.Title | markdownify}}</h1>
-        <h2 class="h4 mb-4">by {{ .Params.author | markdownify}}</h2>
+        <h2 class="h4 mb-2">by {{ .Params.author | markdownify}}</h2>
         <div>
             {{ range .Params.media_types }}
-            <a href="{{`tags/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-secondary mb-4 d-inline-block"># {{. | title}}</a>
+            <a href="{{`media_types/` | relLangURL}}{{. | lower | urlize}}/" class="badge badge-secondary text-sm mb-2 d-inline-block">
+              <small># {{. | title}}</small>
+            </a>
             {{ end }}
         </div>
         <ul class="list-inline card-meta d-flex align-items-center mb-4">
