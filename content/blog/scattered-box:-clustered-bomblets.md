@@ -14,4 +14,4 @@ author: "Sisavanh Phouthavong"
 
 Sisavanh Phouthavong's sculpture, “Scattered Box: Clustered Bomblets”, immerses the audience into the reality of Laos as the most bombed country in history, with landmines and unexploded cluster bombs littering the floor.
 
-[Find it here](https://www.youtube.com/watch?v=rtxRkafX6u4)
+[Learn more here.](https://www.youtube.com/watch?v=rtxRkafX6u4)

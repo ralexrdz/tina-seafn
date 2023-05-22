@@ -13,4 +13,4 @@ author: "Abbigal N. Rosewood"
 
 Follows a young girl from her childhood in a military camp in 1990s Vietnam, where her mother is in hiding as a political dissident, to her adulthood as a lonely and disillusioned immigrant in New York, where she must learn what it means to love and be loved, and to reconfigure home in the aftermath of ruins.
 
-[Find it here](https://youtu.be/cUDtpum3QTI)
+[Learn more here.](https://youtu.be/cUDtpum3QTI)

@@ -13,4 +13,4 @@ author: "Trinh T. Minh-Ha"
 
 Engaging look at travel across national borders--as a foreigner, a tourist, an immigrant, a refugee--in a pre- and post-9/11 world. Who is welcome where? What does it mean to feel out of place in the country you call home? When does the stranger appear in these times of dark metamorphoses?
 
-[Find it here](https://doi.org/10.1093/jrs/fet012)
+[Learn more here.](https://drive.google.com/file/d/1QO75-GZqo74PjoGr4EJQu_8QJDxVe_vc/view?usp=sharing)

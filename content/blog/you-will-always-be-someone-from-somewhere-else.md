@@ -13,4 +13,4 @@ author: "Dao Strom"
 
 A bilingual English-Vietnamese poetry + visual art literature of fragments
 
-[Find it here](https://www.daostrom.com/you-will-always-be-someone-from-somewhere-else)
+[Learn more here.](https://www.daostrom.com/you-will-always-be-someone-from-somewhere-else)

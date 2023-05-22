@@ -13,4 +13,4 @@ author: "Carol Nguyen"
 
 They say it only takes three generations for a culture to assimilate. What happens next?
 
-[Find it here](https://vimeo.com/225473313)
+[Learn more here.](https://vimeo.com/225473313)

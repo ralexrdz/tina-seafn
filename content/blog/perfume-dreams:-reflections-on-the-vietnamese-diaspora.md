@@ -11,6 +11,6 @@ type: "regular"
 author: "Andrew Lam"
 ---
 
-Andrew Lam explores his identity as a Viet Kieu -- a Vietnamese native living in the United States
+Syndicated columnist Andrew Lam explores his identity as a Viet Kieu -- a Vietnamese native living in the United States.
 
-[Find it here](https://www.npr.org/2006/06/30/5523004/a-viet-kieu-shares-his-perfume-dreams)
+[Learn more here.](https://www.npr.org/2006/06/30/5523004/a-viet-kieu-shares-his-perfume-dreams)

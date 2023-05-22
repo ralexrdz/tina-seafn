@@ -11,6 +11,6 @@ type: "regular"
 author: "Khaty Xiong"
 ---
 
-The poems presented here exhaustively meditate on such chaos, both internal and external, (the humility of) the Hmong life, a life of exile. More intimately, these poems examine speech locked inside the body, violence inflicted upon the self (and onto others), the weight of worthlessness despite “Hmong” meaning “one who is free”—one who is free of worthlessness.
+As a second-generation Hmong-American, I am constantly haunted by the Hmong narrative, a story that is “inherently” my own as it is unbelonging to me, elements of my core being stemming from that of the Secret War in Vietnam, diaspora, and cultural brokenness. The poems presented here exhaustively meditate on such chaos, both internal and external, (the humility of) the Hmong life, a life of exile. More intimately, these poems examine speech locked inside the body, violence inflicted upon the self (and onto others), the weight of worthlessness despite “Hmong” meaning “one who is free”—one who is free of worthlessness.
 
-[Find it here](https://www.thebind.net/blog/khatyxiong-pooranima)
+[Learn more here.](https://www.thebind.net/blog/khatyxiong-pooranima)

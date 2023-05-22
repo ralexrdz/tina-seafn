@@ -11,6 +11,6 @@ type: "regular"
 author: "Linda Trinh Vo"
 ---
 
-Using historical materials, ethnographic fieldwork, and interviews, Vo traces the political strategies that enable Asian Americans to bridge ethnicity, generation, gender, language, and class differences, among others.
+Using historical materials, ethnographic fieldwork, and interviews, Linda Trinh Võ traces the political strategies that enable Asian Americans to bridge ethnicity, generation, gender, language, and class differences, among others. She demonstrates that mobilization is not a smooth, linear process and shows how the struggle over ideologies, political strategies, and resources affects the development of community organizations. Võ also analyzes how Asian Americans construct their relationship with Asia and how they forge relationships with other racialized communities of color. Võ argues that the situation in San Diego illuminates other localities across the country where Asians face challenges trying to organize, find sufficient resources, create leaders, and define strategies.
 
-[Find it here](https://tupress.temple.edu/literatures/mobilizing-an-asian-american-community)
+[Learn more here.](https://tupress.temple.edu/literatures/mobilizing-an-asian-american-community)

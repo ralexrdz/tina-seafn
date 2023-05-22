@@ -13,4 +13,4 @@ author: "Multiple authors"
 
 A storytelling platform highlighting Montagnard/Indigenous identity and experiences est. 2018.
 
-[Find it here](https://www.instagram.com/voicesofthehighlands/?hl=en)
+[Learn more here.](https://www.instagram.com/voicesofthehighlands/?hl=en)

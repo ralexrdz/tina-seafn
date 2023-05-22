@@ -13,4 +13,4 @@ author: "Matt Huynh"
 
 Interactive graphic novel based on the acclaimed short story by Nam Le of of 16-year-old Mai, sent alone by her parents on a boat after the Fall of Saigon.
 
-[Find it here](https://www.matthuynh.com/theboat)
+[Learn more here.](https://www.matthuynh.com/theboat)

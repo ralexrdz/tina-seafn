@@ -13,4 +13,4 @@ author: "Freida Lee Mock"
 
 Vietnam War Memorial
 
-[Find it here](https://video.alexanderstreet.com/watch/maya-lin-a-strong-clear-vision?context=channel:freida-lee-mock)
+[Learn more here.](https://video.alexanderstreet.com/watch/maya-lin-a-strong-clear-vision?context=channel:freida-lee-mock)

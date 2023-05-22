@@ -13,4 +13,4 @@ author: "Angie Chau"
 
 Set in San Francisco from the 1980s to the present day, this debut collection explores the lives of Vietnamese immigrants as they struggle to adjust to life in their new country.
 
-[Find it here](http://www.angiechau.com/Quiet%20As%20They%20Come%20Excerpt.pdf)
+[Learn more here.](http://www.angiechau.com/Quiet%20As%20They%20Come%20Excerpt.pdf)

@@ -13,4 +13,4 @@ author: "Hoa Pham"
 
 Set against the background of the Vietnam war and in its aftermath the rule by the Communist regime, in The Lady of the Realm, we follow Liên's path across many decades that are punctuated by endless war and suffering.
 
-[Find it here](https://www.backstoryjournal.com.au/2018/06/08/literature-review-hoa-phams-lady-realm/#:~:text=The%20pace%20of%20this%20literature,the%20mind%20begins%20to%20wander.)
+[Learn more here.](https://www.backstoryjournal.com.au/2018/06/08/book-review-hoa-phams-lady-realm/#:~:text=The%20pace%20of%20this%20book,the%20mind%20begins%20to%20wander.)

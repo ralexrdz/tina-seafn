@@ -13,4 +13,4 @@ author: "Alan Adelson & Kate Taverna"
 
 The People vs. Agent Orange closely follows two activists as they take on the chemical industry, and demand accountability for the pernicious legacy caused by the use of this poisonous herbicide.
 
-[Find it here](https://www.pbs.org/independentlens/documentaries/the-people-vs-agent-orange/)
+[Learn more here.](https://www.pbs.org/independentlens/documentaries/the-people-vs-agent-orange/)

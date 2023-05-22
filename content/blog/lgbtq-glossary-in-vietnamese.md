@@ -13,4 +13,4 @@ author: "Asian Health Services"
 
 A glossary featuring Vietnamese and other languages to assist families in speaking about LGBTQ identities and issues.
 
-[Find it here](https://www.asiaohio.org/wp-content/uploads/2019/02/LGBTQ-Asian-health-glossary-1.pdf)
+[Learn more here.](https://www.asiaohio.org/wp-content/uploads/2019/02/LGBTQ-Asian-health-glossary-1.pdf)

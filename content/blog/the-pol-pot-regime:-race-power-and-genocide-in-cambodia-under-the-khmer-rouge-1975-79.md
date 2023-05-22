@@ -13,4 +13,4 @@ author: "Ben Kiernan"
 
 Ben Kiernan draws on more than five hundred interviews with Cambodian refugees, survivors, and defectors, as well as on a rich collection of previously unexplored archival material from the Pol Pot regime.
 
-[Find it here](https://www.jstor.org/stable/j.ctt1npbv9)
+[Learn more here.](https://drive.google.com/file/d/1pbROVDc0ygG_lRdFzqH_SXMW-S4f8ulM/view?usp=sharing)

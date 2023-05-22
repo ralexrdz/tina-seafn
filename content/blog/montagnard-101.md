@@ -13,4 +13,4 @@ author: "H'Abigail Mlo, Ly Nuin, Phun H"
 
 In this presentation from Fall 2018 Virtual Cultural Festival, students Abi, Ly, and Phun teach about Montagnard culture. The culture of some of the non-Vietnamese ethnic groups native to Vietnam. They discuss music, food, weaving, tools, and language.
 
-[Find it here](https://navigators.unc.edu/global-resource/montagnard-101/)
+[Learn more here.](https://navigators.unc.edu/global-resource/montagnard-101/)

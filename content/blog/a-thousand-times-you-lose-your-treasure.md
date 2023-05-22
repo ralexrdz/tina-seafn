@@ -13,4 +13,4 @@ author: "Hoa Nguyen"
 
 A poetic meditation on historical, personal, and cultural pressures pre- and post-“Fall-of-Saigon” with verse biography on the poet's mother, Diệp Anh Nguyễn, a stunt motorcyclist in an all-women Vietnamese circus troupe.
 
-[Find it here](https://www.wavepoetry.com/products/a-thousand-times-you-lose-your-treasure)
+[Learn more here.](https://www.youtube.com/watch?v=3dMzWXDV7ow)

@@ -13,4 +13,4 @@ author: "Carol Nguyen"
 
 Filmmaker Carol Nguyen interviews her own family to craft an emotionally complex and meticulously composed portrait of intergenerational trauma, grief, and secrets in this cathvisual artic documentary about things left unsaid.
 
-[Find it here](https://vimeo.com/482032869)
+[Learn more here.](https://vimeo.com/482032869)

@@ -13,4 +13,4 @@ author: "Magnolia Yang Sao Yia"
 
 Hmong dance explored and accessed through film.
 
-[Find it here](https://www.youtube.com/watch?v=94AbdJQJgLY&embeds_euri=https%3A%2F%2Fwww.magnoliayangsaoyia.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
+[Learn more here.](https://www.youtube.com/watch?v=94AbdJQJgLY&embeds_euri=https%3A%2F%2Fwww.magnoliayangsaoyia.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo)

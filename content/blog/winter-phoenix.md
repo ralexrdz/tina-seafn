@@ -13,4 +13,4 @@ author: "Sophia Terazawa"
 
 A literature of testimonies in verse, Winter Phoenix is a collection of poems written loosely after the form of an international war crimes tribunal. The poet, a daughter of a Vietnamese refugee, navigates the epigenetics of trauma passed down, and across, the archives of war, dislocation, and witness, as she repeatedly asks, “Why did you just stand there and say nothing?”
 
-[Find it here](https://store.deepvellum.org/products/winter-phoenix)
+[Learn more here.](https://www.poetryfoundation.org/harriet-books/reviews/156720/winter-phoenix)

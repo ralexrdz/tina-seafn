@@ -13,4 +13,4 @@ author: "J. Saechao"
 
 Matriarchal Messages exists as a loving reminder from my Mien women + femme ancestors (both future and current) that we are eternally known and loved by them. The phrases “Yie Hiuv Meih. Yie Hnamv Meih.” directly translate to “I know you, I love you”.
 
-[Find it here](https://nyingv-jae.com/jaesvisual artgallery/2023/2/3/matriarchal-messages)
+[Learn more here.](https://nyingv-jae.com/jaesartgallery/2023/2/3/matriarchal-messages)

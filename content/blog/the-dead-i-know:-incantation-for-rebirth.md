@@ -13,4 +13,4 @@ author: "Burlee Vang"
 
 Poems reflect on and portray the Hmong experience both in Asia and in the U.S., and the struggles Hmong families go through in assimilating to U.S. society, as well as portraying the struggle a young artist goes through to achieve success as a poet
 
-[Find it here](http://www.swanscythepress.com/excerpts/deadknow.html)
+[Learn more here.](http://www.swanscythepress.com/excerpts/deadknow.html)

@@ -13,4 +13,4 @@ author: "Parents Are Human"
 
 A bilingual connection card game designed to spark deep conversations between you and your loved ones.
 
-[Find it here](https://parentsarehuman.notion.site/Parents-Are-Human-Vietnamese-Edition-66398c62f65045ec8a25b0d2377965eb)
+[Learn more here.](https://parentsarehuman.notion.site/Parents-Are-Human-Vietnamese-Edition-66398c62f65045ec8a25b0d2377965eb)

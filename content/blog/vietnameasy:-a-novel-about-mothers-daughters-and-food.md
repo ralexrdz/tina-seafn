@@ -13,4 +13,4 @@ author: "Trami Nguyen Cron"
 
 It tells the story of Kieu, a Vietnamese-American woman, and her quest for success on a TV cooking show, introducing the intoxicating allure of Vietnamese food to a general audience, interwoven with the haunting, sorrowful tale of her family and upbringing.
 
-[Find it here](https://www.vietnameazy.com/)
+[Learn more here.](https://www.vietnameazy.com/)

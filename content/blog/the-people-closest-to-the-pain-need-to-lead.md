@@ -13,4 +13,4 @@ author: "The Brown Girls Guide to Politics"
 
 Host A'shanti Gholar speaks with Kabzuag Vaj, the co-founder and co-executive director of Freedom, Inc—an organization that focuses on ending violence against people of color, women and youth. They discuss the lack of accessibility for remote learning, the rise of gender-based violence, and the importance of allyship.
 
-[Find it here](https://podcasts.apple.com/us/podcast/kabzuag-vaj-people-closest-to-the-pain-need-to-lead/id1457611450?i=1000475685674)
+[Learn more here.](https://podcasts.apple.com/us/podcast/kabzuag-vaj-people-closest-to-the-pain-need-to-lead/id1457611450?i=1000475685674)

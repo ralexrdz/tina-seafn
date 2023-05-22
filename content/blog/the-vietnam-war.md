@@ -13,4 +13,4 @@ author: "Ken Burns & Lynn Novick"
 
 Acclaimed 10 episode documentary about Vietnam War
 
-[Find it here](https://www.pbs.org/kenburns/the-vietnam-war/)
+[Learn more here.](https://www.pbs.org/kenburns/the-vietnam-war/)

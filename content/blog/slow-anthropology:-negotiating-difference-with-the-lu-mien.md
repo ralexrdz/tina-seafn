@@ -13,4 +13,4 @@ author: "Hjorleifur Jonsson"
 
 This study challenges the prevailing academic theory that groups living in the hinterlands of Southeast Asia have traditionally fled to the hills, seeking isolated independence and safety. As part of his challenge, Jonsson highlights the legacies of negotiating difference that have guided the Iu Mien in interactions with their neighbors.
 
-[Find it here](https://doi.org/10.1017/S0021911816001558)
+[Learn more here.](https://www.cornellpress.cornell.edu/book/9780877277644/slow-anthropology/#bookTabs=1)
