@@ -49,8 +49,8 @@ mainSections = ["blog"]
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # copyright
-theme_copyright = false
-# copyright = "Copyright by SEAFN"
+theme_copyright = true
+copyright = "Site developed by [ralex](https://ralex.dev) | using Hugo"
 
 # 404
 error_404_text = "404 Page Not Found!"
